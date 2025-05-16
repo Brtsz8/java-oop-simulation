@@ -1,12 +1,15 @@
-import UI.worldPanel;
+package mainFiles;
+
+import UI.WorldPanel;
 
 import javax.swing.*;
 import java.awt.*;
 
 public class MainFrame extends JFrame {
+    private WorldPanel worldPanel;
     //KONSTRUKTOR MAIN FRAME
-    MainFrame(Settings settings) {
-        JPanel worldPanel = new worldPanel(settings.getTileSize());
+    public MainFrame(Settings settings) {
+        worldPanel = new WorldPanel(settings.getTileSize());
         worldPanel.setBackground(Color.green);
         worldPanel.setBounds(10,10,settings.getWidth(),settings.getHeight());
 
@@ -17,6 +20,9 @@ public class MainFrame extends JFrame {
         JLabel label = new JLabel();
         label.setText("PO Simulation - Bartosz Pacyga 203833");
 
+        JLabel textLogi = new JLabel();
+        textLogi.setText("Zmiany w swiecie: \uD83C\uDF0E");
+        System.out.println("\uD83C\uDF0E");
         this.setTitle("JAVA SIMULATION BARTOSZ PACYGA S203833");  //INFO
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
@@ -34,9 +40,11 @@ public class MainFrame extends JFrame {
         this.setVisible(true);
         this.getContentPane().setBackground(new Color(250,220,210));
 
+        logPanel.add(textLogi);
         this.add(logPanel);
         this.add(worldPanel);
         this.add(label);
-
     }
+
+    public WorldPanel getWorldPanel() { return worldPanel; }
 }

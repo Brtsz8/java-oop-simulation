@@ -3,14 +3,14 @@ package UI;
 import javax.swing.*;
 import java.awt.*;
 
-public class worldPanel extends JPanel {
+public class WorldPanel extends JPanel {
 
     private int TILE_SIZE = 16; // size of each square
     private static final Color LIGHT_GREEN = new Color(85, 111, 68); // light green
     private static final Color DARK_GREEN = new Color(101, 155, 94);      // dark green
 
 
-    public worldPanel(int TILE_SIZE) {
+    public WorldPanel(int TILE_SIZE) {
         setTILE_SIZE(TILE_SIZE);
         setLayout(new FlowLayout()); // add components on top
     }

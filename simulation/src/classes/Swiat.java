@@ -1,4 +1,7 @@
 package classes;
+import UI.WorldPanel;
+import mainFiles.Settings;
+
 import java.sql.SQLOutput;
 import java.util.*;
 
@@ -6,12 +9,16 @@ public class Swiat {
     private List<Organizm> organizmy = new ArrayList<>();
     private List<Organizm> nowe = new ArrayList<>();
     private List<String> logs = new ArrayList<>();
+    private WorldPanel worldPanel;
+    private Settings settings;
 
     private int topLog = 0;
     private int command = 0;
 
-    public Swiat() {
-        //stuff
+    //konstruktor
+    public Swiat(WorldPanel worldPanel, Settings settings) {
+        this.worldPanel = worldPanel;
+        this.settings = settings;
     }
 
     public void usunOrganizmy() {
@@ -34,6 +41,10 @@ public class Swiat {
 
     public int getCommand() {
         return command;
+    }
+
+    public Settings getSettings() {
+        return settings;
     }
 
     //tutaj z jakiegos powodu zalozylem w poprzednim projekcie ze 10 linijek ma byc
@@ -75,7 +86,7 @@ public class Swiat {
         sortujWszystkie();
         for (Organizm organizm : organizmy){
             if(organizm.getZyje()){
-                organizm.akcja();
+                //organizm.akcja();
             }
         }
         usunZabite();
