@@ -47,6 +47,10 @@ public class Swiat {
         return settings;
     }
 
+    public WorldPanel getWorldPanel() {
+        return worldPanel;
+    }
+
     //tutaj z jakiegos powodu zalozylem w poprzednim projekcie ze 10 linijek ma byc
     //do zrobienia
     public void setTopLogIndex(int index) {

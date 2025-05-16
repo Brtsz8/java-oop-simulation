@@ -79,4 +79,10 @@ public abstract class Organizm {
     }
     public abstract void akcja();
     public abstract char rysowanie();
+
+    public abstract void kolizja(int fromX, int fromY, Organizm other);
+
+    public String nazwa() {
+        return this.getClass().getSimpleName();
+    }
 }
