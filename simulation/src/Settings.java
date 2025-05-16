@@ -17,8 +17,6 @@ public class Settings {
             setWidth(Integer.parseInt(reader.readLine()) * getTileSize());
             setHeight(Integer.parseInt(reader.readLine()) * getTileSize());
             reader.close();
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
