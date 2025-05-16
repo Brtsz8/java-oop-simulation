@@ -39,6 +39,7 @@ public abstract class Zwierze extends Organizm{
         }else {
             kolizja(fromX, fromY, other);
         }
+        getSwiat().nowyLog(log.toString());
     }
 
     @Override
