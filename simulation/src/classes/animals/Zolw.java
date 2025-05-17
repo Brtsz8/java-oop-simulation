@@ -19,8 +19,8 @@ public class Zolw extends Zwierze {
     }
 
     @Override
-    public char rysowanie() {
-        return 'Z';
+    public String rysowanie() {
+        return "Z";
     }
 
     @Override

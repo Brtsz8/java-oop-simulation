@@ -13,8 +13,8 @@ public class Owca extends Zwierze {
     }
 
     @Override
-    public char rysowanie() {
-        return 'O';
+    public String rysowanie() {
+        return "\uD83D\uDC11";
     }
 
     @Override

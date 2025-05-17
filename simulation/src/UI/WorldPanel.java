@@ -3,8 +3,14 @@ package UI;
 import classes.Organizm;
 import classes.Swiat;
 
+import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.font.FontRenderContext;
+import java.awt.font.TextLayout;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 
 public class WorldPanel extends JPanel {
 
@@ -24,12 +30,21 @@ public class WorldPanel extends JPanel {
     }
 
     public void redraw(){
+
         swiat.wykonajTure();
     }
 
     @Override
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
+        BufferedImage emojiImage = null;
+        try {
+            System.out.println("Looking for: " + new File("../files/owca.png").getAbsolutePath());
+
+            emojiImage = ImageIO.read(new File("src/files/owca.png"));
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
 
         for (int y = 0; y < 740; y += TILE_SIZE) {
             for (int x = 0; x < 580; x += TILE_SIZE) {
@@ -40,27 +55,28 @@ public class WorldPanel extends JPanel {
         }
         for(Organizm organizm : swiat.getOrganizmy()) {
             g.setColor(Color.DARK_GRAY);
-            String symbol = String.valueOf(organizm.rysowanie());
+            String symbol = organizm.rysowanie();
             drawStringInTile(g,symbol,organizm.getPozycjaX()-1,organizm.getPozycjaY()-1,TILE_SIZE);
         }
+        g.drawImage(emojiImage, 0, 0, 32, 32, null);
     }
 
     public void drawStringInTile(Graphics g, String text, int xTile, int yTile, int tileSize) {
         Graphics2D g2 = (Graphics2D) g;
         g2.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
 
-        Font font = new Font("Segoe UI Emoji", Font.PLAIN, tileSize / 2);
+        Font font = new Font("Noto Color Emoji", Font.PLAIN, tileSize / 2);
         g2.setFont(font);
-        FontMetrics metrics = g2.getFontMetrics(font);
 
-        int textWidth = metrics.stringWidth(text);
-        int textHeight = metrics.getAscent(); // distance from baseline to top
+        FontRenderContext frc = g2.getFontRenderContext();
+        TextLayout layout = new TextLayout(text, font, frc);
 
-        int xPixel = xTile * tileSize + (tileSize - textWidth) / 2;
-        int yPixel = yTile * tileSize + (tileSize + textHeight) / 2 - 2;
+        float xPixel = xTile * tileSize + (tileSize - (float) layout.getBounds().getWidth()) / 2;
+        float yPixel = yTile * tileSize + (tileSize + (float) layout.getBounds().getHeight()) / 2;
 
-        g2.drawString(text, xPixel, yPixel);
+        layout.draw(g2, xPixel, yPixel);
     }
+
 
     private void setTILE_SIZE(int TILE_SIZE) {
         this.TILE_SIZE = TILE_SIZE;

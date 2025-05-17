@@ -78,7 +78,7 @@ public abstract class Organizm {
         // base version does nothing
     }
     public abstract void akcja();
-    public abstract char rysowanie();
+    public abstract String rysowanie();
 
     public abstract void kolizja(int fromX, int fromY, Organizm other);
 

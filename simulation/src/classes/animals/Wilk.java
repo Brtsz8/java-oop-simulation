@@ -10,8 +10,8 @@ public class Wilk extends Zwierze{
     }
 
     @Override
-    public char rysowanie() {
-        return 'W';
+    public String rysowanie() {
+        return "W";
     }
 
     @Override
