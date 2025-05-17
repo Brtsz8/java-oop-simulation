@@ -4,11 +4,14 @@ import UI.WorldPanel;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 
-public class MainFrame extends JFrame {
+public class MainFrame extends JFrame implements KeyListener {
     private WorldPanel worldPanel;
     //KONSTRUKTOR MAIN FRAME
     public MainFrame(Settings settings) {
+        this.addKeyListener(this);
         worldPanel = new WorldPanel(settings.getTileSize());
         worldPanel.setBackground(Color.green);
         worldPanel.setBounds(10,10,settings.getWidth(),settings.getHeight());
@@ -47,4 +50,20 @@ public class MainFrame extends JFrame {
     }
 
     public WorldPanel getWorldPanel() { return worldPanel; }
+
+    @Override
+    public void keyTyped(KeyEvent e) {
+
+    }
+
+    @Override
+    public void keyPressed(KeyEvent e) {
+
+    }
+
+    @Override
+    public void keyReleased(KeyEvent e) {
+        worldPanel.redraw();
+        worldPanel.repaint();
+    }
 }

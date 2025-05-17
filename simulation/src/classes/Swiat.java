@@ -2,6 +2,7 @@ package classes;
 import UI.WorldPanel;
 import mainFiles.Settings;
 
+import javax.swing.*;
 import java.sql.SQLOutput;
 import java.util.*;
 
@@ -37,6 +38,10 @@ public class Swiat {
 
     public int getTopLogIndex() {
         return topLog;
+    }
+
+    public List<Organizm> getOrganizmy(){
+        return organizmy;
     }
 
     public int getCommand() {
@@ -90,19 +95,19 @@ public class Swiat {
         sortujWszystkie();
         for (Organizm organizm : organizmy){
             if(organizm.getZyje()){
-                //organizm.akcja();
+                organizm.akcja();
             }
         }
         usunZabite();
         organizmy.addAll(nowe);
         nowe.clear();
 
-        rysujSwiat();
+       // rysujSwiat();
         wyswietlLogi(topLog);
     }
 
     public void rysujSwiat() {
-        System.out.println("Rysuje swiat");
+       // worldPanel.redraw();
     }
 
     public Organizm findOrganismAt(int x, int y) {
