@@ -1,7 +1,8 @@
 import UI.WorldPanel;
-import classes.Swiat;
+import classes.*;
 import mainFiles.MainFrame;
 import mainFiles.Settings;
+
 
 public class Main {
     public static void main(String[] args) {
