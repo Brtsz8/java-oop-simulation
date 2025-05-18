@@ -1,0 +1,5 @@
+package UI;
+
+public enum ImagesEnum {
+    WILK,OWCA,ZOLW,LIS,CZLOWIEK,ANTYLOPA,BARSZCZ,GUARANA,JAGODY,MLECZ,TRAWA;
+}

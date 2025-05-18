@@ -26,7 +26,7 @@ public class Main {
         swiat.nowyOrganizm(owca);
         Wilk wilk1 = new Wilk(2,2,swiat);
         swiat.nowyOrganizm(wilk1);
-        Wilk wilk2 = new Wilk(1,1,swiat);
+       /* Wilk wilk2 = new Wilk(1,1,swiat);
         swiat.nowyOrganizm(wilk2);
         Wilk wilk3 = new Wilk(2,1,swiat);
         swiat.nowyOrganizm(wilk3);
