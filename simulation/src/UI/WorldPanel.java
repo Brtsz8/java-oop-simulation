@@ -87,13 +87,6 @@ public class WorldPanel extends JPanel {
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
         BufferedImage emojiImage = null;
-        try {
-            System.out.println("Looking for: " + new File("src/images/owca.png").getAbsolutePath());
-
-            emojiImage = ImageIO.read(new File("src/images/wilk.png"));
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
 
         for (int y = 0; y < swiat.getSettings().getHeight(); y += TILE_SIZE) {
             for (int x = 0; x < swiat.getSettings().getWidth(); x += TILE_SIZE) {
@@ -116,6 +109,8 @@ public class WorldPanel extends JPanel {
                 emojiImage = images.get(ImagesEnum.LIS.ordinal());
             if(Objects.equals(nazwa, "Czlowiek"))
                 emojiImage = images.get(ImagesEnum.CZLOWIEK.ordinal());
+            if(Objects.equals(nazwa, "Trawa"))
+                emojiImage = images.get(ImagesEnum.TRAWA.ordinal());
 
             g.drawImage(emojiImage,
                     (organizm.getPozycjaX()-1)*TILE_SIZE,
