@@ -111,6 +111,14 @@ public class WorldPanel extends JPanel {
                 emojiImage = images.get(ImagesEnum.CZLOWIEK.ordinal());
             if(Objects.equals(nazwa, "Trawa"))
                 emojiImage = images.get(ImagesEnum.TRAWA.ordinal());
+            if(Objects.equals(nazwa, "Mlecz"))
+                emojiImage = images.get(ImagesEnum.MLECZ.ordinal());
+            if(Objects.equals(nazwa, "Jagody"))
+                emojiImage = images.get(ImagesEnum.JAGODY.ordinal());
+            if(Objects.equals(nazwa, "Guarana"))
+                emojiImage = images.get(ImagesEnum.GUARANA.ordinal());
+            if(Objects.equals(nazwa, "Barszcz"))
+                emojiImage = images.get(ImagesEnum.BARSZCZ.ordinal());
 
             g.drawImage(emojiImage,
                     (organizm.getPozycjaX()-1)*TILE_SIZE,

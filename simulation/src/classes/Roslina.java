@@ -17,7 +17,7 @@ public abstract class Roslina extends Organizm{
     public abstract Organizm dodajPotomka(int x, int y);
 
     //czy rozrasta sie 33% szans
-    private boolean czyRosnie() {
+    protected boolean czyRosnie() {
         System.out.println("sprawdza czy rosnie");
         return random.nextInt(10)%3 == 0;
     }
@@ -32,7 +32,7 @@ public abstract class Roslina extends Organizm{
         int dir = getRandomDir();
         int newX = getPozycjaX() + dx[dir];
         int newY = getPozycjaY() + dy[dir];
-        
+
         if (!isInBounds(getSwiat().getSettings(),newY, newX)) return;
 
         if (getSwiat().findOrganismAt(newX, newY) == null) {

@@ -132,5 +132,12 @@ public class Swiat {
                 iterator.remove();
             }
         }
+        Iterator<Organizm> iterator2 = nowe.iterator();
+        while(iterator2.hasNext()) {
+            Organizm organizm = iterator2.next();
+            if(!organizm.getZyje()) {
+                iterator2.remove();
+            }
+        }
     }
 }
