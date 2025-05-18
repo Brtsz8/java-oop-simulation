@@ -43,8 +43,18 @@ public class WorldPanel extends JPanel {
         BufferedImage imgMlecz = null;
         BufferedImage imgTrawa = null;
         try {
+            //WILK,OWCA,ZOLW,LIS,CZLOWIEK,ANTYLOPA,BARSZCZ,GUARANA,JAGODY,MLECZ,TRAWA;
             imgWilk = ImageIO.read(new File("src/images/wilk.png"));
             imgOwca = ImageIO.read(new File("src/images/owca.png"));
+            imgZolw = ImageIO.read(new File("src/images/zolw.png"));
+            imgLis = ImageIO.read(new File("src/images/lis.png"));
+            imgCzlowiek = ImageIO.read(new File("src/images/czlowiek.png"));
+            imgAntylopa = ImageIO.read(new File("src/images/antylopa.png"));
+            imgBarszcz = ImageIO.read(new File("src/images/barszcz.png"));
+            imgGuarana = ImageIO.read(new File("src/images/guarana.png"));
+            imgJagody = ImageIO.read(new File("src/images/jagody.png"));
+            imgMlecz = ImageIO.read(new File("src/images/mlecz.png"));
+            imgTrawa = ImageIO.read(new File("src/images/trawa.png"));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -52,6 +62,15 @@ public class WorldPanel extends JPanel {
 
             images.add(imgWilk);
             images.add(imgOwca);
+            images.add(imgZolw);
+            images.add(imgLis);
+            images.add(imgCzlowiek);
+            images.add(imgAntylopa);
+            images.add(imgBarszcz);
+            images.add(imgGuarana);
+            images.add(imgJagody);
+            images.add(imgMlecz);
+            images.add(imgTrawa);
         }
     }
 
@@ -76,8 +95,8 @@ public class WorldPanel extends JPanel {
             throw new RuntimeException(e);
         }
 
-        for (int y = 0; y < 740; y += TILE_SIZE) {
-            for (int x = 0; x < 580; x += TILE_SIZE) {
+        for (int y = 0; y < swiat.getSettings().getHeight(); y += TILE_SIZE) {
+            for (int x = 0; x < swiat.getSettings().getWidth(); x += TILE_SIZE) {
                 boolean isLight = ((x / TILE_SIZE + y / TILE_SIZE) % 2 == 0);
                 g.setColor(isLight ? LIGHT_GREEN : DARK_GREEN);
                 g.fillRect(x, y, TILE_SIZE, TILE_SIZE);
@@ -89,6 +108,14 @@ public class WorldPanel extends JPanel {
                 emojiImage = images.get(ImagesEnum.WILK.ordinal());
             if(Objects.equals(nazwa, "Owca"))
                 emojiImage = images.get(ImagesEnum.OWCA.ordinal());
+            if(Objects.equals(nazwa, "Zolw"))
+                emojiImage = images.get(ImagesEnum.ZOLW.ordinal());
+            if(Objects.equals(nazwa, "Antylopa"))
+                emojiImage = images.get(ImagesEnum.ANTYLOPA.ordinal());
+            if(Objects.equals(nazwa, "LIS"))
+                emojiImage = images.get(ImagesEnum.LIS.ordinal());
+            if(Objects.equals(nazwa, "Czlowiek"))
+                emojiImage = images.get(ImagesEnum.CZLOWIEK.ordinal());
 
             g.drawImage(emojiImage,
                     (organizm.getPozycjaX()-1)*TILE_SIZE,

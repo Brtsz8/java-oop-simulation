@@ -1,7 +1,9 @@
 import UI.WorldPanel;
 import classes.*;
+import classes.animals.Antylopa;
 import classes.animals.Owca;
 import classes.animals.Wilk;
+import classes.animals.Zolw;
 import mainFiles.MainFrame;
 import mainFiles.Settings;
 
@@ -22,19 +24,14 @@ public class Main {
         Swiat swiat = new Swiat(mainWorld, worldSettings);
         mainWorld.setSwiat(swiat);
 
-        Owca owca = new Owca(10,10,swiat);
+        Owca owca = new Owca(9,9,swiat);
         swiat.nowyOrganizm(owca);
         Wilk wilk1 = new Wilk(2,2,swiat);
         swiat.nowyOrganizm(wilk1);
-       /* Wilk wilk2 = new Wilk(1,1,swiat);
-        swiat.nowyOrganizm(wilk2);
-        Wilk wilk3 = new Wilk(2,1,swiat);
-        swiat.nowyOrganizm(wilk3);
-        /*
-        swiat.wykonajTure();
-        swiat.wykonajTure();
-        swiat.wykonajTure();
-*/
+        Antylopa antylopa = new Antylopa(2,9,swiat);
+        swiat.nowyOrganizm(antylopa);
+        Zolw zolw = new Zolw(1,1,swiat);
+        swiat.nowyOrganizm(zolw);
 
     }
 }

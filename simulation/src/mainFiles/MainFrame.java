@@ -31,8 +31,6 @@ public class MainFrame extends JFrame implements KeyListener {
         this.setResizable(false);
         int w = settings.getWidth()*2+100;
         int h = settings.getHeight()+100;
-       // System.out.println(w);
-       // System.out.println(h);
         try{
             this.setSize(w,h);
             this.setBounds(0,0,w,h);

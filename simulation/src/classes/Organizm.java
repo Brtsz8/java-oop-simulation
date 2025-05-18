@@ -47,9 +47,9 @@ public abstract class Organizm {
 
     // Checks if coordinates are within bounds of the world's window
     public boolean isInBounds(Settings settings, int y, int x) {
-        int h = settings.getHeight();
-        int w = settings.getWidth();
-        return y > 0 && y < h - 1 && x > 0 && x < w - 1;
+        int h = settings.getHeight() / settings.getTileSize();
+        int w = settings.getWidth() / settings.getTileSize();
+        return y > 0 && y <= h && x > 0 && x <= w;
     }
 
     // Finds a free space adjacent to current position
