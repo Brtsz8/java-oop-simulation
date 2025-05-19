@@ -3,10 +3,16 @@ package UI;
 import classes.Organizm;
 import classes.Swiat;
 import classes.animals.Czlowiek;
+import classes.animals.Lis;
+import classes.animals.Owca;
+import classes.animals.Wilk;
+import classes.plants.Trawa;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 import java.awt.font.FontRenderContext;
 import java.awt.font.TextLayout;
 import java.awt.image.BufferedImage;
@@ -76,6 +82,57 @@ public class WorldPanel extends JPanel {
             images.add(imgTrawa);
             images.add(imgTarcza);
         }
+        // Mouse listener for click detection
+        addMouseListener(new MouseAdapter() {
+//            @Override
+//            public void mouseClicked(MouseEvent e) {
+//                int tileX = e.getX() / TILE_SIZE;
+//                int tileY = e.getY() / TILE_SIZE;
+//
+//                System.out.println("Clicked tile: " + tileX + ", " + tileY);
+//                // Add organism at this location
+//                Wilk newOrganizm = new Wilk(tileX+1, tileY+1, swiat); // adjust constructor as needed
+//                swiat.nowyOrganizm(newOrganizm);
+//
+//                swiat.getOrganizmy().add(newOrganizm);
+//                repaint(); // refresh the panel
+//            }
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                int tileX = e.getX() / TILE_SIZE;
+                int tileY = e.getY() / TILE_SIZE;
+
+                System.out.println("Clicked tile: " + tileX + ", " + tileY);
+
+                // List of organism types (customize based on your classes)
+                String[] options = {"Wilk", "Owca", "Lis", "Trawa"};
+                String choice = (String) JOptionPane.showInputDialog(
+                        WorldPanel.this,
+                        "Wybierz organizm do dodania:",
+                        "Dodaj organizm",
+                        JOptionPane.PLAIN_MESSAGE,
+                        null,
+                        options,
+                        options[0]
+                );
+
+                if (choice != null) {
+                    Organizm newOrganizm = switch (choice) {
+                        case "Wilk" -> new Wilk(tileX + 1, tileY + 1, swiat);
+                        case "Owca" -> new Owca(tileX + 1, tileY + 1, swiat);
+                        case "Lis" -> new Lis(tileX + 1, tileY + 1, swiat);
+                        case "Trawa" -> new Trawa(tileX + 1, tileY + 1, swiat);
+                        default -> null;
+                    };
+
+                    if (newOrganizm != null) {
+                        swiat.nowyOrganizm(newOrganizm); // add via model
+                        repaint();
+                    }
+                }
+            }
+        });
+
     }
 
     public void setSwiat(Swiat swiat) {
@@ -109,7 +166,7 @@ public class WorldPanel extends JPanel {
                 emojiImage = images.get(ImagesEnum.ZOLW.ordinal());
             if(Objects.equals(nazwa, "Antylopa"))
                 emojiImage = images.get(ImagesEnum.ANTYLOPA.ordinal());
-            if(Objects.equals(nazwa, "LIS"))
+            if(Objects.equals(nazwa, "Lis"))
                 emojiImage = images.get(ImagesEnum.LIS.ordinal());
             if(Objects.equals(nazwa, "Czlowiek")){
                 if(organizm instanceof Czlowiek && ((Czlowiek) organizm).isUmiejetnoscAktywna()){

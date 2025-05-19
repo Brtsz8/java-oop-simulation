@@ -32,7 +32,7 @@ public class Main {
         swiat.nowyOrganizm(wilk2);
         Antylopa antylopa = new Antylopa(2,9,swiat);
         swiat.nowyOrganizm(antylopa);
-        Barszcz zolw = new Barszcz(1,1,swiat);
+        Lis zolw = new Lis(1,1,swiat);
         swiat.nowyOrganizm(zolw);
         Trawa trawa = new Trawa(5,5,swiat);
         swiat.nowyOrganizm(trawa);
