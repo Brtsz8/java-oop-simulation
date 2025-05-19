@@ -18,7 +18,6 @@ public abstract class Roslina extends Organizm{
 
     //czy rozrasta sie 33% szans
     protected boolean czyRosnie() {
-        System.out.println("sprawdza czy rosnie");
         return random.nextInt(10)%3 == 0;
     }
 
@@ -42,7 +41,6 @@ public abstract class Roslina extends Organizm{
                 System.err.println("[BŁĄD] Nie udało się stworzyć potomka rośliny!");
                 return;
             }
-            System.out.println("Dodano nowa rosline");
             getSwiat().nowyOrganizm(potomek);
             getSwiat().nowyLog(nazwa() + " rozprzestrzenia się na x:" + newX + " y:" + newY);
         }

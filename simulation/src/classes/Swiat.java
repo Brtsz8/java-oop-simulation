@@ -56,6 +56,10 @@ public class Swiat {
         return worldPanel;
     }
 
+    public List<String> getLogs() {
+        return logs;
+    }
+
     //tutaj z jakiegos powodu zalozylem w poprzednim projekcie ze 10 linijek ma byc
     //do zrobienia
     public void setTopLogIndex(int index) {
@@ -83,7 +87,7 @@ public class Swiat {
             int logIndex = pierwszyLog + i;
             if (logIndex >= logs.size()) break;
             if (logIndex < 0) logIndex = 0;
-            System.out.println(logs.get(logIndex));
+            //System.out.println(logs.get(logIndex));
         }
     }
 

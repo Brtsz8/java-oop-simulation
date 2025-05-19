@@ -20,8 +20,8 @@ import java.util.Objects;
 public class WorldPanel extends JPanel {
 
     private int TILE_SIZE = 16; // size of each square
-    private static final Color LIGHT_GREEN = new Color(85, 111, 68); // light green
-    private static final Color DARK_GREEN = new Color(101, 155, 94);      // dark green
+    private static final Color LIGHT_GREEN = new Color(20, 153, 17); // light green
+    private static final Color DARK_GREEN = new Color(37, 109, 27);      // dark green
     private Swiat swiat;
 
     private List<BufferedImage> images = new ArrayList<>();

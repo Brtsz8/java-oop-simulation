@@ -1,5 +1,6 @@
 package mainFiles;
 
+import UI.LogPanel;
 import UI.WorldPanel;
 import classes.Swiat;
 
@@ -10,6 +11,7 @@ import java.awt.event.KeyListener;
 
 public class MainFrame extends JFrame implements KeyListener {
     private WorldPanel worldPanel;
+    private LogPanel logPanel;
     protected Swiat swiat;
     //KONSTRUKTOR MAIN FRAME
     public MainFrame(Settings settings) {
@@ -18,16 +20,12 @@ public class MainFrame extends JFrame implements KeyListener {
         worldPanel.setBackground(Color.green);
         worldPanel.setBounds(10,10,settings.getWidth(),settings.getHeight());
 
-        JPanel logPanel = new JPanel();
-        logPanel.setBackground(Color.red);
-        logPanel.setBounds(settings.getWidth()+20,10,settings.getWidth(),settings.getHeight());
+        logPanel = new LogPanel(settings,swiat);
 
         JLabel label = new JLabel();
         label.setText("PO Simulation - Bartosz Pacyga 203833");
 
         JLabel textLogi = new JLabel();
-        textLogi.setText("Zmiany w swiecie: \uD83C\uDF0E");
-        System.out.println("\uD83C\uDF0E");
         this.setTitle("JAVA SIMULATION BARTOSZ PACYGA S203833");  //INFO
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
@@ -53,6 +51,7 @@ public class MainFrame extends JFrame implements KeyListener {
 
     public void setSwiat(Swiat swiat){
         this.swiat = swiat;
+        logPanel.setSwiat(swiat);
     }
 
     @Override
@@ -62,9 +61,23 @@ public class MainFrame extends JFrame implements KeyListener {
 
     @Override
     public void keyPressed(KeyEvent e) {
+        if(e.getKeyChar() == '1') {
+            swiat.setTopLogIndex(swiat.getTopLogIndex()+1);
+            logPanel.updateLogs(swiat.getTopLogIndex());
+            logPanel.repaint();
+            return;
+        }
+        if(e.getKeyChar() == '2') {
+            swiat.setTopLogIndex(swiat.getTopLogIndex()-1);
+            logPanel.updateLogs(swiat.getTopLogIndex());
+            logPanel.repaint();
+            return;
+        }
         swiat.setCommand(e.getKeyChar());
         worldPanel.redraw();
         worldPanel.repaint();
+        logPanel.updateLogs(swiat.getTopLogIndex());
+        logPanel.repaint();
     }
 
     @Override
