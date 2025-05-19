@@ -203,8 +203,8 @@ public class Swiat {
                     case "Trawa" -> organizm = new Trawa(x, y, this);
                     case "Mlecz" -> organizm = new Mlecz(x, y, this);
                     case "Guarana" -> organizm = new Guarana(x, y, this);
-                    case "Wilcze Jagody" -> organizm = new Jagody(x, y, this);
-                    case "Barszcz Sosnowskiego" -> organizm = new Barszcz(x, y, this);
+                    case "Jagody" -> organizm = new Jagody(x, y, this);
+                    case "Barszcz" -> organizm = new Barszcz(x, y, this);
                     case "Czlowiek" -> {
                         boolean umiejetnoscAktywna = Integer.parseInt(parts[4]) == 1;
                         int dlugoscUmiejetnosci = Integer.parseInt(parts[5]);
