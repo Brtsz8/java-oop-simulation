@@ -2,6 +2,7 @@ package UI;
 
 import classes.Organizm;
 import classes.Swiat;
+import classes.animals.Czlowiek;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -42,6 +43,7 @@ public class WorldPanel extends JPanel {
         BufferedImage imgJagody = null;
         BufferedImage imgMlecz = null;
         BufferedImage imgTrawa = null;
+        BufferedImage imgTarcza = null;
         try {
             //WILK,OWCA,ZOLW,LIS,CZLOWIEK,ANTYLOPA,BARSZCZ,GUARANA,JAGODY,MLECZ,TRAWA;
             imgWilk = ImageIO.read(new File("src/images/wilk.png"));
@@ -55,6 +57,7 @@ public class WorldPanel extends JPanel {
             imgJagody = ImageIO.read(new File("src/images/jagody.png"));
             imgMlecz = ImageIO.read(new File("src/images/mlecz.png"));
             imgTrawa = ImageIO.read(new File("src/images/trawa.png"));
+            imgTarcza = ImageIO.read(new File("src/images/tarcza.png"));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -71,6 +74,7 @@ public class WorldPanel extends JPanel {
             images.add(imgJagody);
             images.add(imgMlecz);
             images.add(imgTrawa);
+            images.add(imgTarcza);
         }
     }
 
@@ -107,8 +111,13 @@ public class WorldPanel extends JPanel {
                 emojiImage = images.get(ImagesEnum.ANTYLOPA.ordinal());
             if(Objects.equals(nazwa, "LIS"))
                 emojiImage = images.get(ImagesEnum.LIS.ordinal());
-            if(Objects.equals(nazwa, "Czlowiek"))
-                emojiImage = images.get(ImagesEnum.CZLOWIEK.ordinal());
+            if(Objects.equals(nazwa, "Czlowiek")){
+                if(organizm instanceof Czlowiek && ((Czlowiek) organizm).isUmiejetnoscAktywna()){
+                    emojiImage = images.get(ImagesEnum.TARCZA.ordinal());
+                }else
+                    emojiImage = images.get(ImagesEnum.CZLOWIEK.ordinal());
+            }
+
             if(Objects.equals(nazwa, "Trawa"))
                 emojiImage = images.get(ImagesEnum.TRAWA.ordinal());
             if(Objects.equals(nazwa, "Mlecz"))
