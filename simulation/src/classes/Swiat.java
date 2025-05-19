@@ -150,6 +150,11 @@ public class Swiat {
 
     public void save(String filePath) {
         try (PrintWriter writer = new PrintWriter(new FileWriter(filePath))) {
+            writer.println("Size");
+            writer.print(settings.getWidth() + " ");
+            writer.print(settings.getHeight() + " ");
+            writer.print(settings.getTileSize());
+            writer.println();
             writer.println("Win");
 
             for (Organizm organizm : organizmy) {
@@ -185,6 +190,15 @@ public class Swiat {
 
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line = reader.readLine(); // "Win"
+            while ((line = reader.readLine()) != null && !line.equals("Win")){
+                String[] parts = line.split(" ");
+                int w = Integer.parseInt(parts[0]);
+                int h = Integer.parseInt(parts[1]);
+                int size = Integer.parseInt(parts[2]);
+                settings.setWidth(w);
+                settings.setHeight(h);
+                settings.setTileSize(size);
+            }
             while ((line = reader.readLine()) != null && !line.equals("LogWindow")) {
                 String[] parts = line.split(" ");
                 String nazwa = parts[0];

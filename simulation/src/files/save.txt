@@ -1,234 +1,98 @@
+Size
+640 640 64
 Win
-Antylopa 9 3 10
-Czlowiek 2 9 5 0 0 1
-Barszcz 1 1 99
+Wilk 2 2 9
+Wilk 4 1 9
+Wilk 3 3 9
+Antylopa 2 8 4
+Czlowiek 7 4 5 0 0 0
 Guarana 6 6 0
 Jagody 8 8 10
-Guarana 6 5 0
-Guarana 7 5 0
-Guarana 5 6 0
-Jagody 7 8 10
-Jagody 8 9 10
-Jagody 8 10 10
-Guarana 4 6 0
-Jagody 7 9 10
+Trawa 4 5 0
 Guarana 6 7 0
-Jagody 9 10 10
-Barszcz 2 1 99
+Trawa 5 4 0
+Jagody 8 9 10
+Trawa 3 5 0
 Jagody 8 7 10
-Guarana 7 4 0
-Jagody 9 9 10
-Guarana 7 6 0
-Guarana 3 6 0
-Barszcz 1 2 99
-Guarana 5 5 0
-Guarana 5 7 0
-Jagody 7 10 10
-Jagody 8 6 10
-Guarana 5 8 0
-Guarana 6 8 0
-Guarana 8 4 0
-Barszcz 1 3 99
-Barszcz 3 1 99
-Jagody 9 7 10
-Guarana 7 3 0
+Jagody 8 10 10
+Trawa 6 4 0
+Trawa 5 3 0
+Jagody 7 8 10
 Guarana 7 7 0
-Barszcz 1 4 99
-Jagody 9 8 10
-Guarana 6 4 0
-Jagody 6 9 10
-Jagody 10 7 10
-Barszcz 2 4 99
-Jagody 5 9 10
-Guarana 2 6 0
-Barszcz 2 5 99
-Guarana 7 2 0
-Jagody 10 8 10
-Barszcz 2 2 99
-Guarana 8 3 0
-Barszcz 2 3 99
-Guarana 6 2 0
-Guarana 4 5 0
-Jagody 8 5 10
-Guarana 6 3 0
-Guarana 5 4 0
-Guarana 4 8 0
-Barszcz 3 2 99
+Trawa 2 5 0
+Trawa 5 5 0
+Jagody 9 10 10
+Trawa 6 3 0
+Guarana 7 6 0
+Trawa 1 5 0
 LogWindow
-Przesuwam Wilk na nowa pozycje x:1, y: 2
-Przesuwam Wilk na nowa pozycje x:1, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Wilk na nowa pozycje x:2, y: 1
 Przesuwam Wilk na nowa pozycje x:3, y: 1
 Przesuwam Wilk na nowa pozycje x:3, y: 1
-Przesuwam Owca na nowa pozycje x:8, y: 9
-Przesuwam Owca na nowa pozycje x:8, y: 9
-Antylopa przesuwa się na nową pozycję x:3, y:10
-Czlowiek przesuwa sie na x:6 y:9
-Barszcz zabija Wilk który był za blisko
-Guarana rozprzestrzenia się na x:6 y:5
-Przesuwam Wilk na nowa pozycje x:4, y: 1
-Przesuwam Wilk na nowa pozycje x:4, y: 1
-Przesuwam Owca na nowa pozycje x:9, y: 9
-Przesuwam Owca na nowa pozycje x:9, y: 9
-Czlowiek przesuwa sie na x:5 y:9
-Guarana rozprzestrzenia się na x:7 y:5
-Przesuwam Wilk na nowa pozycje x:4, y: 2
-Przesuwam Wilk na nowa pozycje x:4, y: 2
-Przesuwam Owca na nowa pozycje x:9, y: 10
-Przesuwam Owca na nowa pozycje x:9, y: 10
-Antylopa przesuwa się na nową pozycję x:2, y:9
-Czlowiek przesuwa sie na x:4 y:9
-Guarana rozprzestrzenia się na x:5 y:6
-Przesuwam Wilk na nowa pozycje x:4, y: 1
-Przesuwam Wilk na nowa pozycje x:4, y: 1
-Antylopa przesuwa się na nową pozycję x:1, y:9
-Czlowiek przesuwa sie na x:3 y:9
-Czlowiek przesuwa sie na x:3 y:10
-Przesuwam Wilk na nowa pozycje x:3, y: 1
-Przesuwam Wilk na nowa pozycje x:3, y: 1
-Przesuwam Owca na nowa pozycje x:8, y: 10
-Przesuwam Owca na nowa pozycje x:8, y: 10
-Antylopa przesuwa się na nową pozycję x:3, y:9
-Czlowiek przesuwa sie na x:4 y:10
-Jagody rozprzestrzenia się na x:7 y:8
-Przesuwam Wilk na nowa pozycje x:3, y: 2
-Przesuwam Wilk na nowa pozycje x:3, y: 2
-Antylopa przesuwa się na nową pozycję x:3, y:7
-Czlowiek przesuwa sie na x:4 y:9
-Jagody rozprzestrzenia się na x:8 y:9
-Przesuwam Wilk na nowa pozycje x:4, y: 2
-Przesuwam Wilk na nowa pozycje x:4, y: 2
-Antylopa przesuwa się na nową pozycję x:4, y:6
-Czlowiek przesuwa sie na x:4 y:10
-Przesuwam Wilk na nowa pozycje x:5, y: 2
-Przesuwam Wilk na nowa pozycje x:5, y: 2
-Przesuwam Owca na nowa pozycje x:9, y: 10
-Przesuwam Owca na nowa pozycje x:9, y: 10
-Antylopa na x:4 y:6 nie ucieka
-Antylopa zabija Trawa na x:5 y:5
-Czlowiek przesuwa sie na x:3 y:10
-Jagody rozprzestrzenia się na x:8 y:10
-Przesuwam Wilk na nowa pozycje x:6, y: 2
-Przesuwam Wilk na nowa pozycje x:6, y: 2
-Przesuwam Owca na nowa pozycje x:10, y: 10
-Przesuwam Owca na nowa pozycje x:10, y: 10
-Antylopa ucieka na pole x:5 y:4
-Czlowiek przesuwa sie na x:2 y:10
-Guarana rozprzestrzenia się na x:7 y:6
-Guarana rozprzestrzenia się na x:4 y:6
-Jagody rozprzestrzenia się na x:7 y:9
-Przesuwam Wilk na nowa pozycje x:5, y: 2
-Przesuwam Wilk na nowa pozycje x:5, y: 2
 Przesuwam Owca na nowa pozycje x:10, y: 9
 Przesuwam Owca na nowa pozycje x:10, y: 9
-Antylopa przesuwa się na nową pozycję x:7, y:4
-Czlowiek przesuwa sie na x:1 y:10
+Antylopa przesuwa się na nową pozycję x:2, y:8
+Czlowiek przesuwa sie na x:5 y:8
+Trawa rozprzestrzenia się na x:4 y:5
 Guarana rozprzestrzenia się na x:6 y:7
-Jagody rozprzestrzenia się na x:9 y:10
-Przesuwam Wilk na nowa pozycje x:4, y: 2
-Przesuwam Wilk na nowa pozycje x:4, y: 2
+Antylopa przesuwa się na nową pozycję x:2, y:6
+Czlowiek przesuwa sie na x:5 y:7
+Trawa rozprzestrzenia się na x:5 y:4
+Jagody rozprzestrzenia się na x:8 y:9
+Trawa rozprzestrzenia się na x:3 y:5
+Wilk i Wilk beda miec potomka na x:2 y:2
+
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 1
 Przesuwam Owca na nowa pozycje x:10, y: 10
 Przesuwam Owca na nowa pozycje x:10, y: 10
-Antylopa na x:7 y:4 nie ucieka
-Antylopa na polu x:7 y:6 ma większą siłę (Guarana)
-Antylopa zabija Guarana na x:7 y:6
-Barszcz rozprzestrzenia się na x:2 y:1
+Antylopa przesuwa się na nową pozycję x:3, y:7
+Czlowiek przesuwa sie na x:5 y:6
 Jagody rozprzestrzenia się na x:8 y:7
-Guarana rozprzestrzenia się na x:7 y:4
-Jagody rozprzestrzenia się na x:9 y:9
-Przesuwam Wilk na nowa pozycje x:4, y: 3
-Przesuwam Wilk na nowa pozycje x:4, y: 3
+Jagody rozprzestrzenia się na x:8 y:10
+Przesuwam Wilk na nowa pozycje x:5, y: 1
+Przesuwam Wilk na nowa pozycje x:5, y: 1
+Przesuwam Wilk na nowa pozycje x:2, y: 3
+Przesuwam Wilk na nowa pozycje x:2, y: 3
 Przesuwam Owca na nowa pozycje x:10, y: 9
 Przesuwam Owca na nowa pozycje x:10, y: 9
-Antylopa przesuwa się na nową pozycję x:8, y:6
-Guarana rozprzestrzenia się na x:7 y:6
-Guarana rozprzestrzenia się na x:3 y:6
-Przesuwam Wilk na nowa pozycje x:4, y: 4
-Przesuwam Wilk na nowa pozycje x:4, y: 4
-Antylopa przesuwa się na nową pozycję x:9, y:6
-Czlowiek przesuwa sie na x:1 y:9
-Barszcz rozprzestrzenia się na x:1 y:2
-Guarana rozprzestrzenia się na x:5 y:5
-Guarana rozprzestrzenia się na x:5 y:7
-Przesuwam Wilk na nowa pozycje x:4, y: 5
-Przesuwam Wilk na nowa pozycje x:4, y: 5
-Przesuwam Owca na nowa pozycje x:10, y: 8
-Przesuwam Owca na nowa pozycje x:10, y: 8
-Antylopa przesuwa się na nową pozycję x:10, y:5
-Czlowiek przesuwa sie na x:1 y:8
-Jagody rozprzestrzenia się na x:7 y:10
-Jagody rozprzestrzenia się na x:8 y:6
-Jagody rozprzestrzenia się na x:9 y:8
-Guarana rozprzestrzenia się na x:5 y:8
-Przesuwam Wilk na nowa pozycje x:4, y: 4
-Przesuwam Wilk na nowa pozycje x:4, y: 4
-Jagody zjedzone - ginie Owca na polu x:10 y:8
+Antylopa przesuwa się na nową pozycję x:2, y:7
+Czlowiek zabija Trawa na x:5 y:5
+Trawa rozprzestrzenia się na x:6 y:4
+Jagody rozprzestrzenia się na x:9 y:10
+Lis nie rusza się na pole x: 2 y: 1 - jest słabszy! 
+Wilk zabija Lis na x:1 y:1
+
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Antylopa przesuwa się na nową pozycję x:2, y:8
+Czlowiek przesuwa sie na x:6 y:5
+Trawa rozprzestrzenia się na x:5 y:3
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 4
+Przesuwam Wilk na nowa pozycje x:3, y: 4
+Jagody zjedzone - ginie Owca na polu x:10 y:10
 Owca zatruty przez Jagody
-Antylopa przesuwa się na nową pozycję x:10, y:6
-Czlowiek przesuwa sie na x:1 y:9
-Guarana rozprzestrzenia się na x:6 y:8
-Guarana rozprzestrzenia się na x:8 y:4
-Barszcz rozprzestrzenia się na x:1 y:3
-Przesuwam Wilk na nowa pozycje x:4, y: 3
-Przesuwam Wilk na nowa pozycje x:4, y: 3
-Antylopa przesuwa się na nową pozycję x:10, y:7
-Tarcza Azura aktywowana! (5 tur)
-Barszcz rozprzestrzenia się na x:3 y:1
-Jagody rozprzestrzenia się na x:9 y:7
-Guarana rozprzestrzenia się na x:7 y:3
-Przesuwam Wilk na nowa pozycje x:5, y: 3
-Przesuwam Wilk na nowa pozycje x:5, y: 3
-Antylopa przesuwa się na nową pozycję x:10, y:6
-Czlowiek przesuwa sie na x:1 y:8
+
+Antylopa przesuwa się na nową pozycję x:3, y:9
+Czlowiek przesuwa sie na x:7 y:5
+Jagody rozprzestrzenia się na x:7 y:8
 Guarana rozprzestrzenia się na x:7 y:7
-Barszcz rozprzestrzenia się na x:1 y:4
-Jagody rozprzestrzenia się na x:9 y:8
-Przesuwam Wilk na nowa pozycje x:5, y: 2
-Przesuwam Wilk na nowa pozycje x:5, y: 2
-Antylopa przesuwa się na nową pozycję x:9, y:6
-Czlowiek przesuwa sie na x:1 y:7
-Guarana rozprzestrzenia się na x:6 y:4
-Guarana rozprzestrzenia się na x:8 y:5
-Jagody rozprzestrzenia się na x:6 y:9
-Przesuwam Wilk na nowa pozycje x:5, y: 1
-Przesuwam Wilk na nowa pozycje x:5, y: 1
-Antylopa przesuwa się na nową pozycję x:10, y:5
-Czlowiek przesuwa sie na x:1 y:6
-Jagody rozprzestrzenia się na x:10 y:7
-Barszcz rozprzestrzenia się na x:2 y:4
-Jagody rozprzestrzenia się na x:5 y:9
+Trawa rozprzestrzenia się na x:2 y:5
+Przesuwam Wilk na nowa pozycje x:2, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 2
 Przesuwam Wilk na nowa pozycje x:4, y: 1
 Przesuwam Wilk na nowa pozycje x:4, y: 1
-Antylopa na x:10 y:5 nie ucieka
-Antylopa na polu x:8 y:5 ma większą siłę (Guarana)
-Antylopa zabija Guarana na x:8 y:5
-Czlowiek przesuwa sie na x:1 y:7
-Guarana rozprzestrzenia się na x:2 y:6
-Barszcz zabija Wilk który był za blisko
-Barszcz rozprzestrzenia się na x:2 y:5
-Antylopa ucieka na pole x:9 y:5
-Umiejetnosc przestala dzialac!
-Czlowiek przesuwa sie na x:1 y:8
-Guarana rozprzestrzenia się na x:7 y:2
-Jagody rozprzestrzenia się na x:10 y:8
-Antylopa przesuwa się na nową pozycję x:9, y:6
-Umiejetnosc regeneruje sie!
-Czlowiek przesuwa sie na x:2 y:8
-Antylopa przesuwa się na nową pozycję x:9, y:4
-Umiejetnosc regeneruje sie!
-Czlowiek przesuwa sie na x:2 y:9
-Barszcz rozprzestrzenia się na x:2 y:2
-Guarana rozprzestrzenia się na x:8 y:3
-Barszcz rozprzestrzenia się na x:2 y:3
-Guarana rozprzestrzenia się na x:6 y:2
-Antylopa przesuwa się na nową pozycję x:10, y:4
-Umiejetnosc regeneruje sie!
-Czlowiek przesuwa sie na x:3 y:9
-Guarana rozprzestrzenia się na x:4 y:5
-Jagody rozprzestrzenia się na x:8 y:5
-Guarana rozprzestrzenia się na x:6 y:3
-Guarana rozprzestrzenia się na x:5 y:4
-Antylopa przesuwa się na nową pozycję x:9, y:3
-Umiejetnosc regeneruje sie!
-Czlowiek przesuwa sie na x:2 y:9
-Guarana rozprzestrzenia się na x:4 y:8
-Barszcz rozprzestrzenia się na x:3 y:2
+Przesuwam Wilk na nowa pozycje x:3, y: 3
+Przesuwam Wilk na nowa pozycje x:3, y: 3
+Antylopa przesuwa się na nową pozycję x:2, y:8
+Czlowiek przesuwa sie na x:7 y:4
+Trawa rozprzestrzenia się na x:5 y:5
+Jagody rozprzestrzenia się na x:9 y:10
+Trawa rozprzestrzenia się na x:6 y:3
+Guarana rozprzestrzenia się na x:7 y:6
+Trawa rozprzestrzenia się na x:1 y:5

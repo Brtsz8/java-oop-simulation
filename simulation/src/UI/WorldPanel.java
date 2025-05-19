@@ -132,7 +132,6 @@ public class WorldPanel extends JPanel {
     }
 
     public void redraw(){
-
         swiat.wykonajTure();
     }
 
