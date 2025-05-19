@@ -2,11 +2,8 @@ package UI;
 
 import classes.Organizm;
 import classes.Swiat;
-import classes.animals.Czlowiek;
-import classes.animals.Lis;
-import classes.animals.Owca;
-import classes.animals.Wilk;
-import classes.plants.Trawa;
+import classes.animals.*;
+import classes.plants.*;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -84,19 +81,6 @@ public class WorldPanel extends JPanel {
         }
         // Mouse listener for click detection
         addMouseListener(new MouseAdapter() {
-//            @Override
-//            public void mouseClicked(MouseEvent e) {
-//                int tileX = e.getX() / TILE_SIZE;
-//                int tileY = e.getY() / TILE_SIZE;
-//
-//                System.out.println("Clicked tile: " + tileX + ", " + tileY);
-//                // Add organism at this location
-//                Wilk newOrganizm = new Wilk(tileX+1, tileY+1, swiat); // adjust constructor as needed
-//                swiat.nowyOrganizm(newOrganizm);
-//
-//                swiat.getOrganizmy().add(newOrganizm);
-//                repaint(); // refresh the panel
-//            }
             @Override
             public void mouseClicked(MouseEvent e) {
                 int tileX = e.getX() / TILE_SIZE;
@@ -105,7 +89,8 @@ public class WorldPanel extends JPanel {
                 System.out.println("Clicked tile: " + tileX + ", " + tileY);
 
                 // List of organism types (customize based on your classes)
-                String[] options = {"Wilk", "Owca", "Lis", "Trawa"};
+                String[] options = {"Wilk", "Owca", "Lis", "Antylopa", "Zolw",
+                        "Trawa", "Mlecz", "Jagody", "Guarana", "Barszcz"};
                 String choice = (String) JOptionPane.showInputDialog(
                         WorldPanel.this,
                         "Wybierz organizm do dodania:",
@@ -121,12 +106,19 @@ public class WorldPanel extends JPanel {
                         case "Wilk" -> new Wilk(tileX + 1, tileY + 1, swiat);
                         case "Owca" -> new Owca(tileX + 1, tileY + 1, swiat);
                         case "Lis" -> new Lis(tileX + 1, tileY + 1, swiat);
+                        case "Antylopa" -> new Antylopa(tileX + 1, tileY + 1, swiat);
+                        case "Zolw" -> new Zolw(tileX + 1, tileY + 1, swiat);
                         case "Trawa" -> new Trawa(tileX + 1, tileY + 1, swiat);
+                        case "Mlecz" -> new Mlecz(tileX + 1, tileY + 1, swiat);
+                        case "Jagody" -> new Jagody(tileX + 1, tileY + 1, swiat);
+                        case "Guarana" -> new Guarana(tileX + 1, tileY + 1, swiat);
+                        case "Barszcz" -> new Barszcz(tileX + 1, tileY + 1, swiat);
                         default -> null;
                     };
 
                     if (newOrganizm != null) {
-                        swiat.nowyOrganizm(newOrganizm); // add via model
+                       // swiat.nowyOrganizm(newOrganizm); // add via model
+                        swiat.getOrganizmy().add(newOrganizm);
                         repaint();
                     }
                 }
