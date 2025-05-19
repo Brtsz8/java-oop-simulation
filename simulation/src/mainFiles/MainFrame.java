@@ -39,7 +39,7 @@ public class MainFrame extends JFrame implements KeyListener {
         }
 
         this.setVisible(true);
-        this.getContentPane().setBackground(new Color(250,220,210));
+        this.getContentPane().setBackground(new Color(146,130,141));
 
         logPanel.add(textLogi);
         this.add(logPanel);
@@ -70,6 +70,18 @@ public class MainFrame extends JFrame implements KeyListener {
         if(e.getKeyChar() == '2') {
             swiat.setTopLogIndex(swiat.getTopLogIndex()-1);
             logPanel.updateLogs(swiat.getTopLogIndex());
+            logPanel.repaint();
+            return;
+        }
+        if(e.getKeyChar() == 'z') {
+            swiat.save("src/files/save.txt");
+            worldPanel.repaint();
+            logPanel.repaint();
+            return;
+        }
+        if(e.getKeyChar() == 'x') {
+            swiat.load("src/files/save.txt");
+            worldPanel.repaint();
             logPanel.repaint();
             return;
         }

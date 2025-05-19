@@ -1,0 +1,203 @@
+Win
+Wilk 5 4 9
+Owca 10 6 4
+Czlowiek 3 8 14 0 0 0
+Trawa 4 5 0
+Trawa 4 4 0
+Trawa 7 3 0
+Trawa 6 2 0
+Trawa 7 2 0
+Trawa 3 5 0
+Trawa 8 3 0
+Trawa 5 5 0
+Trawa 8 2 0
+Trawa 7 1 0
+Trawa 3 6 0
+Trawa 8 4 0
+Trawa 4 6 0
+Trawa 3 4 0
+Trawa 6 3 0
+Trawa 2 5 0
+Trawa 5 6 0
+Trawa 5 2 0
+Trawa 9 3 0
+Trawa 9 2 0
+LogWindow
+Wilk i Wilk beda miec potomka na x:1 y:2
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Antylopa przesuwa się na nową pozycję x:2, y:8
+Czlowiek przesuwa sie na x:5 y:8
+Barszcz zabija Wilk który był za blisko
+Guarana rozprzestrzenia się na x:6 y:7
+Jagody rozprzestrzenia się na x:9 y:8
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Antylopa przesuwa się na nową pozycję x:4, y:8
+Czlowiek przesuwa sie na x:5 y:7
+Barszcz zabija Wilk który był za blisko
+Guarana rozprzestrzenia się na x:6 y:5
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Antylopa przesuwa się na nową pozycję x:3, y:8
+Czlowiek na polu x:6 y:7 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:6 y:7
+Barszcz rozprzestrzenia się na x:1 y:2
+Jagody rozprzestrzenia się na x:8 y:9
+Jagody rozprzestrzenia się na x:9 y:9
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Owca na nowa pozycje x:10, y: 9
+Przesuwam Owca na nowa pozycje x:10, y: 9
+Antylopa przesuwa się na nową pozycję x:4, y:8
+Czlowiek na polu x:6 y:6 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:6 y:6
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Antylopa przesuwa się na nową pozycję x:5, y:8
+Czlowiek na polu x:6 y:5 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:6 y:5
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Antylopa przesuwa się na nową pozycję x:6, y:7
+Czlowiek przesuwa sie na x:7 y:5
+Trawa rozprzestrzenia się na x:4 y:5
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Antylopa przesuwa się na nową pozycję x:6, y:8
+Czlowiek przesuwa sie na x:7 y:4
+Trawa rozprzestrzenia się na x:5 y:4
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Przesuwam Owca na nowa pozycje x:10, y: 10
+Antylopa przesuwa się na nową pozycję x:7, y:9
+Czlowiek przesuwa sie na x:8 y:4
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Antylopa przesuwa się na nową pozycję x:7, y:8
+Czlowiek przesuwa sie na x:8 y:3
+Przesuwam Wilk na nowa pozycje x:5, y: 1
+Przesuwam Wilk na nowa pozycje x:5, y: 1
+Przesuwam Owca na nowa pozycje x:8, y: 10
+Przesuwam Owca na nowa pozycje x:8, y: 10
+Antylopa przesuwa się na nową pozycję x:7, y:9
+Czlowiek przesuwa sie na x:8 y:2
+Przesuwam Wilk na nowa pozycje x:6, y: 1
+Przesuwam Wilk na nowa pozycje x:6, y: 1
+Przesuwam Owca na nowa pozycje x:7, y: 10
+Przesuwam Owca na nowa pozycje x:7, y: 10
+Antylopa przesuwa się na nową pozycję x:7, y:7
+Czlowiek przesuwa sie na x:8 y:3
+Trawa rozprzestrzenia się na x:6 y:4
+Przesuwam Wilk na nowa pozycje x:6, y: 2
+Przesuwam Wilk na nowa pozycje x:6, y: 2
+Przesuwam Owca na nowa pozycje x:7, y: 9
+Przesuwam Owca na nowa pozycje x:7, y: 9
+Antylopa przesuwa się na nową pozycję x:8, y:8
+Czlowiek przesuwa sie na x:8 y:4
+Przesuwam Wilk na nowa pozycje x:6, y: 1
+Przesuwam Wilk na nowa pozycje x:6, y: 1
+Przesuwam Owca na nowa pozycje x:7, y: 10
+Przesuwam Owca na nowa pozycje x:7, y: 10
+Antylopa przesuwa się na nową pozycję x:7, y:8
+Czlowiek przesuwa sie na x:8 y:5
+Przesuwam Wilk na nowa pozycje x:5, y: 1
+Przesuwam Wilk na nowa pozycje x:5, y: 1
+Przesuwam Owca na nowa pozycje x:8, y: 10
+Przesuwam Owca na nowa pozycje x:8, y: 10
+Antylopa przesuwa się na nową pozycję x:6, y:7
+Czlowiek przesuwa sie na x:7 y:5
+Trawa rozprzestrzenia się na x:6 y:5
+Trawa rozprzestrzenia się na x:4 y:4
+Trawa rozprzestrzenia się na x:6 y:3
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Przesuwam Owca na nowa pozycje x:9, y: 10
+Antylopa przesuwa się na nową pozycję x:5, y:7
+Czlowiek zabija Trawa na x:6 y:5
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Owca na nowa pozycje x:9, y: 9
+Przesuwam Owca na nowa pozycje x:9, y: 9
+Antylopa przesuwa się na nową pozycję x:7, y:7
+Czlowiek zabija Trawa na x:6 y:4
+Trawa rozprzestrzenia się na x:5 y:3
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Owca na nowa pozycje x:8, y: 9
+Przesuwam Owca na nowa pozycje x:8, y: 9
+Antylopa przesuwa się na nową pozycję x:6, y:6
+Czlowiek zabija Trawa na x:5 y:4
+Trawa rozprzestrzenia się na x:7 y:3
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Wilk na nowa pozycje x:4, y: 2
+Przesuwam Owca na nowa pozycje x:8, y: 10
+Przesuwam Owca na nowa pozycje x:8, y: 10
+Antylopa przesuwa się na nową pozycję x:7, y:6
+Czlowiek zabija Trawa na x:5 y:5
+Trawa rozprzestrzenia się na x:6 y:2
+Trawa rozprzestrzenia się na x:7 y:2
+Przesuwam Wilk na nowa pozycje x:5, y: 2
+Przesuwam Wilk na nowa pozycje x:5, y: 2
+Przesuwam Owca na nowa pozycje x:8, y: 9
+Przesuwam Owca na nowa pozycje x:8, y: 9
+Antylopa przesuwa się na nową pozycję x:7, y:8
+Wilk zabija Trawa na x:5 y:3
+Przesuwam Owca na nowa pozycje x:9, y: 9
+Przesuwam Owca na nowa pozycje x:9, y: 9
+Antylopa przesuwa się na nową pozycję x:8, y:7
+Trawa rozprzestrzenia się na x:3 y:5
+Trawa rozprzestrzenia się na x:8 y:3
+Wilk zabija Trawa na x:6 y:3
+
+Przesuwam Owca na nowa pozycje x:9, y: 8
+Przesuwam Owca na nowa pozycje x:9, y: 8
+Antylopa przesuwa się na nową pozycję x:10, y:7
+Czlowiek przesuwa sie na x:5 y:6
+Trawa rozprzestrzenia się na x:5 y:5
+Trawa rozprzestrzenia się na x:8 y:2
+Przesuwam Wilk na nowa pozycje x:6, y: 4
+Przesuwam Wilk na nowa pozycje x:6, y: 4
+Przesuwam Owca na nowa pozycje x:9, y: 7
+Przesuwam Owca na nowa pozycje x:9, y: 7
+Antylopa przesuwa się na nową pozycję x:10, y:5
+Czlowiek przesuwa sie na x:4 y:6
+Trawa rozprzestrzenia się na x:7 y:1
+Trawa rozprzestrzenia się na x:3 y:6
+Przesuwam Wilk na nowa pozycje x:6, y: 3
+Przesuwam Wilk na nowa pozycje x:6, y: 3
+Przesuwam Owca na nowa pozycje x:9, y: 6
+Przesuwam Owca na nowa pozycje x:9, y: 6
+Antylopa przesuwa się na nową pozycję x:10, y:6
+Czlowiek przesuwa sie na x:4 y:7
+Trawa rozprzestrzenia się na x:5 y:4
+Trawa rozprzestrzenia się na x:8 y:4
+Trawa rozprzestrzenia się na x:4 y:6
+Przesuwam Wilk na nowa pozycje x:5, y: 3
+Przesuwam Wilk na nowa pozycje x:5, y: 3
+Antylopa na x:10 y:6 nie ucieka
+Owca zabija Antylopa na x:10 y:6
+
+Czlowiek przesuwa sie na x:4 y:8
+Trawa rozprzestrzenia się na x:3 y:4
+Trawa rozprzestrzenia się na x:6 y:3
+Trawa rozprzestrzenia się na x:2 y:5
+Trawa rozprzestrzenia się na x:5 y:6
+Wilk zabija Trawa na x:5 y:4
+
+Czlowiek przesuwa sie na x:3 y:8
+Trawa rozprzestrzenia się na x:5 y:2
+Trawa rozprzestrzenia się na x:9 y:3
+Trawa rozprzestrzenia się na x:9 y:2
