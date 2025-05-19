@@ -1,6 +1,7 @@
 package mainFiles;
 
 import UI.WorldPanel;
+import classes.Swiat;
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,6 +10,7 @@ import java.awt.event.KeyListener;
 
 public class MainFrame extends JFrame implements KeyListener {
     private WorldPanel worldPanel;
+    protected Swiat swiat;
     //KONSTRUKTOR MAIN FRAME
     public MainFrame(Settings settings) {
         this.addKeyListener(this);
@@ -49,6 +51,10 @@ public class MainFrame extends JFrame implements KeyListener {
 
     public WorldPanel getWorldPanel() { return worldPanel; }
 
+    public void setSwiat(Swiat swiat){
+        this.swiat = swiat;
+    }
+
     @Override
     public void keyTyped(KeyEvent e) {
 
@@ -56,12 +62,13 @@ public class MainFrame extends JFrame implements KeyListener {
 
     @Override
     public void keyPressed(KeyEvent e) {
-
+        swiat.setCommand(e.getKeyChar());
+        worldPanel.redraw();
+        worldPanel.repaint();
     }
 
     @Override
     public void keyReleased(KeyEvent e) {
-        worldPanel.redraw();
-        worldPanel.repaint();
+
     }
 }
