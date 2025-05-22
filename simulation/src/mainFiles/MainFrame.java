@@ -17,13 +17,12 @@ public class MainFrame extends JFrame implements KeyListener {
     public MainFrame(Settings settings) {
         this.addKeyListener(this);
         worldPanel = new WorldPanel(settings.getTileSize());
-        worldPanel.setBackground(Color.green);
+        worldPanel.setBackground(new Color(146,130,141));
         worldPanel.setBounds(10,10,settings.getWidth(),settings.getHeight());
 
         logPanel = new LogPanel(settings,swiat);
 
         JLabel label = new JLabel();
-        label.setText("PO Simulation - Bartosz Pacyga 203833");
 
         JLabel textLogi = new JLabel();
         this.setTitle("JAVA SIMULATION BARTOSZ PACYGA S203833");  //INFO

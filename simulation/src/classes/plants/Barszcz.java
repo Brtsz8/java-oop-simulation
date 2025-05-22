@@ -12,11 +12,6 @@ public class Barszcz extends Roslina {
     }
 
     @Override
-    public String rysowanie() {
-        return "!";
-    }
-
-    @Override
     public String nazwa() {
         return "Barszcz";
     }

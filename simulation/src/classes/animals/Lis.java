@@ -10,11 +10,6 @@ public class Lis extends Zwierze {
     }
 
     @Override
-    public String rysowanie() {
-        return "L";
-    }
-
-    @Override
     public String nazwa() {
         return "Lis";
     }

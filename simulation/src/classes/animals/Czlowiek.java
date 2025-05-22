@@ -15,11 +15,6 @@ public class Czlowiek extends Zwierze {
     }
 
     @Override
-    public String rysowanie() {
-        return "C";
-    }
-
-    @Override
     public String nazwa() {
         return "Czlowiek";
     }

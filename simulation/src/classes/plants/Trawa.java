@@ -10,8 +10,6 @@ public class Trawa extends Roslina {
     }
 
     @Override
-    public String rysowanie() {return "Trawa";}
-    @Override
     public String nazwa() {return "Trawa";}
 
     @Override

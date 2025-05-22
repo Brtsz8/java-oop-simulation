@@ -10,11 +10,6 @@ public class Wilk extends Zwierze{
     }
 
     @Override
-    public String rysowanie() {
-        return "src/images/wilk.png";
-    }
-
-    @Override
     public String nazwa() {
         return "Wilk";
     }

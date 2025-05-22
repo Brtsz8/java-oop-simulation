@@ -19,11 +19,6 @@ public class Zolw extends Zwierze {
     }
 
     @Override
-    public String rysowanie() {
-        return "Z";
-    }
-
-    @Override
     public String nazwa() {
         return "Zolw";
     }

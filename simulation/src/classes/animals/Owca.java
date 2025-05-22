@@ -13,11 +13,6 @@ public class Owca extends Zwierze {
     }
 
     @Override
-    public String rysowanie() {
-        return "\uD83D\uDC11";
-    }
-
-    @Override
     public String nazwa() {
         return "Owca";
     }

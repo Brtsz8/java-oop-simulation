@@ -11,11 +11,6 @@ public class Guarana extends Roslina {
     }
 
     @Override
-    public String rysowanie() {
-        return "&";
-    }
-
-    @Override
     public String nazwa() {
         return "Guarana";
     }

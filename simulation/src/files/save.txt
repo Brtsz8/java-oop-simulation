@@ -1,98 +1,6274 @@
 Size
 640 640 64
 Win
-Wilk 2 2 9
+Wilk 3 6 21
 Wilk 4 1 9
+Wilk 2 3 9
+Wilk 1 1 9
+Wilk 3 1 9
+Wilk 4 3 9
+Wilk 2 1 9
+Wilk 4 2 9
+Wilk 2 10 9
+Wilk 3 2 9
+Wilk 5 1 9
+Wilk 2 6 9
+Wilk 5 2 9
+Wilk 4 5 9
+Wilk 5 3 9
+Wilk 6 1 9
+Wilk 6 2 9
+Wilk 3 5 9
+Wilk 2 7 9
+Wilk 6 7 18
+Wilk 7 3 9
+Wilk 3 8 9
+Wilk 7 4 9
+Wilk 8 1 9
+Wilk 1 7 9
+Wilk 2 8 9
+Wilk 10 2 9
+Wilk 4 6 9
+Wilk 4 4 9
+Wilk 6 3 9
+Wilk 1 8 9
+Wilk 2 9 9
+Wilk 9 1 9
+Wilk 3 7 9
 Wilk 3 3 9
-Antylopa 2 8 4
-Czlowiek 7 4 5 0 0 0
-Guarana 6 6 0
-Jagody 8 8 10
-Trawa 4 5 0
-Guarana 6 7 0
-Trawa 5 4 0
-Jagody 8 9 10
-Trawa 3 5 0
-Jagody 8 7 10
-Jagody 8 10 10
-Trawa 6 4 0
-Trawa 5 3 0
-Jagody 7 8 10
-Guarana 7 7 0
-Trawa 2 5 0
-Trawa 5 5 0
-Jagody 9 10 10
-Trawa 6 3 0
-Guarana 7 6 0
-Trawa 1 5 0
+Wilk 5 4 9
+Wilk 4 7 9
+Wilk 5 5 15
+Wilk 1 9 9
+Wilk 3 9 9
+Wilk 8 2 9
+Wilk 1 10 9
+Wilk 6 4 9
+Wilk 7 1 9
+Wilk 9 3 9
+Wilk 7 2 9
+Wilk 7 6 9
+Wilk 1 3 9
+Wilk 5 6 9
+Wilk 10 1 9
+Wilk 5 8 9
+Wilk 9 2 9
+Wilk 8 3 9
+Wilk 5 7 9
+Wilk 10 3 9
+Wilk 6 6 9
+Wilk 10 4 9
+Wilk 3 10 9
+Wilk 4 8 9
+Wilk 8 7 9
+Wilk 8 4 9
+Wilk 9 4 9
+Wilk 7 5 9
+Wilk 9 6 9
+Wilk 8 6 9
+Wilk 4 9 9
+Wilk 6 10 9
+Wilk 6 5 9
+Wilk 10 5 9
+Wilk 9 5 9
+Wilk 7 8 9
+Wilk 5 10 9
+Wilk 6 8 9
+Wilk 10 6 9
+Wilk 8 5 9
+Wilk 5 9 9
+Wilk 7 9 9
+Wilk 6 9 9
+Wilk 9 7 9
+Wilk 4 10 9
+Wilk 8 10 9
+Wilk 7 7 9
+Wilk 10 7 9
+Wilk 8 8 9
+Wilk 9 8 9
+Wilk 10 8 9
+Wilk 8 9 9
+Wilk 7 10 9
+Wilk 10 10 9
+Wilk 9 9 9
+Wilk 10 9 9
+Wilk 9 10 9
+Wilk 2 5 9
+Wilk 3 4 9
+Wilk 1 6 9
+Wilk 1 2 9
+Wilk 1 5 9
+Wilk 2 2 9
+Czlowiek 1 4 23 0 0 0
+Wilk 2 4 9
 LogWindow
+Przesuwam Wilk na nowa pozycje x:8, y: 6
+Przesuwam Wilk na nowa pozycje x:8, y: 6
+Przesuwam Wilk na nowa pozycje x:9, y: 6
+Przesuwam Wilk na nowa pozycje x:9, y: 6
 Przesuwam Wilk na nowa pozycje x:2, y: 1
 Przesuwam Wilk na nowa pozycje x:2, y: 1
-Przesuwam Wilk na nowa pozycje x:3, y: 1
-Przesuwam Wilk na nowa pozycje x:3, y: 1
-Przesuwam Owca na nowa pozycje x:10, y: 9
-Przesuwam Owca na nowa pozycje x:10, y: 9
-Antylopa przesuwa się na nową pozycję x:2, y:8
-Czlowiek przesuwa sie na x:5 y:8
-Trawa rozprzestrzenia się na x:4 y:5
-Guarana rozprzestrzenia się na x:6 y:7
-Antylopa przesuwa się na nową pozycję x:2, y:6
-Czlowiek przesuwa sie na x:5 y:7
-Trawa rozprzestrzenia się na x:5 y:4
-Jagody rozprzestrzenia się na x:8 y:9
-Trawa rozprzestrzenia się na x:3 y:5
-Wilk i Wilk beda miec potomka na x:2 y:2
-
-Przesuwam Wilk na nowa pozycje x:4, y: 1
-Przesuwam Wilk na nowa pozycje x:4, y: 1
-Przesuwam Owca na nowa pozycje x:10, y: 10
-Przesuwam Owca na nowa pozycje x:10, y: 10
-Antylopa przesuwa się na nową pozycję x:3, y:7
-Czlowiek przesuwa sie na x:5 y:6
-Jagody rozprzestrzenia się na x:8 y:7
-Jagody rozprzestrzenia się na x:8 y:10
-Przesuwam Wilk na nowa pozycje x:5, y: 1
-Przesuwam Wilk na nowa pozycje x:5, y: 1
-Przesuwam Wilk na nowa pozycje x:2, y: 3
-Przesuwam Wilk na nowa pozycje x:2, y: 3
+Przesuwam Wilk na nowa pozycje x:2, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 2
 Przesuwam Owca na nowa pozycje x:10, y: 9
 Przesuwam Owca na nowa pozycje x:10, y: 9
 Antylopa przesuwa się na nową pozycję x:2, y:7
-Czlowiek zabija Trawa na x:5 y:5
-Trawa rozprzestrzenia się na x:6 y:4
-Jagody rozprzestrzenia się na x:9 y:10
-Lis nie rusza się na pole x: 2 y: 1 - jest słabszy! 
-Wilk zabija Lis na x:1 y:1
+Czlowiek przesuwa sie na x:5 y:8
+Jagody rozprzestrzenia się na x:9 y:8
+Przesuwam Lis na nowa pozycje x:1, y: 2
+Przesuwam Lis na nowa pozycje x:1, y: 2
+Przesuwam Wilk na nowa pozycje x:9, y: 7
+Przesuwam Wilk na nowa pozycje x:9, y: 7
+Wilk i Wilk beda miec potomka na x:1 y:1
 
-Przesuwam Wilk na nowa pozycje x:2, y: 4
-Przesuwam Wilk na nowa pozycje x:2, y: 4
-Przesuwam Owca na nowa pozycje x:10, y: 10
-Przesuwam Owca na nowa pozycje x:10, y: 10
-Antylopa przesuwa się na nową pozycję x:2, y:8
-Czlowiek przesuwa sie na x:6 y:5
-Trawa rozprzestrzenia się na x:5 y:3
-Przesuwam Wilk na nowa pozycje x:2, y: 1
-Przesuwam Wilk na nowa pozycje x:2, y: 1
-Przesuwam Wilk na nowa pozycje x:3, y: 4
-Przesuwam Wilk na nowa pozycje x:3, y: 4
-Jagody zjedzone - ginie Owca na polu x:10 y:10
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Owca na nowa pozycje x:10, y: 8
+Przesuwam Owca na nowa pozycje x:10, y: 8
+Antylopa przesuwa się na nową pozycję x:3, y:6
+Czlowiek przesuwa sie na x:5 y:7
+Guarana rozprzestrzenia się na x:5 y:4
+Guarana rozprzestrzenia się na x:7 y:6
+Przesuwam Lis na nowa pozycje x:1, y: 3
+Przesuwam Lis na nowa pozycje x:1, y: 3
+Przesuwam Wilk na nowa pozycje x:10, y: 7
+Przesuwam Wilk na nowa pozycje x:10, y: 7
+Przesuwam Wilk na nowa pozycje x:2, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Antylopa przesuwa się na nową pozycję x:2, y:5
+Czlowiek przesuwa sie na x:5 y:6
+Guarana rozprzestrzenia się na x:6 y:5
+Przesuwam Lis na nowa pozycje x:1, y: 4
+Przesuwam Lis na nowa pozycje x:1, y: 4
+Przesuwam Wilk na nowa pozycje x:9, y: 7
+Przesuwam Wilk na nowa pozycje x:9, y: 7
+Przesuwam Wilk na nowa pozycje x:2, y: 3
+Przesuwam Wilk na nowa pozycje x:2, y: 3
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 1
+Jagody zjedzone - ginie Owca na polu x:10 y:8
 Owca zatruty przez Jagody
 
-Antylopa przesuwa się na nową pozycję x:3, y:9
-Czlowiek przesuwa sie na x:7 y:5
-Jagody rozprzestrzenia się na x:7 y:8
+Antylopa przesuwa się na nową pozycję x:4, y:5
+Czlowiek zabija Trawa na x:5 y:5
+Jagody rozprzestrzenia się na x:8 y:9
+Przesuwam Lis na nowa pozycje x:1, y: 5
+Przesuwam Lis na nowa pozycje x:1, y: 5
+Przesuwam Wilk na nowa pozycje x:10, y: 7
+Przesuwam Wilk na nowa pozycje x:10, y: 7
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Antylopa przesuwa się na nową pozycję x:3, y:4
+Czlowiek na polu x:6 y:5 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:6 y:5
+Jagody rozprzestrzenia się na x:8 y:7
+Przesuwam Lis na nowa pozycje x:1, y: 4
+Przesuwam Lis na nowa pozycje x:1, y: 4
+Wilk zabija Lis na x:1 y:4
+
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Antylopa przesuwa się na nową pozycję x:2, y:5
+Czlowiek na polu x:6 y:6 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:6 y:6
 Guarana rozprzestrzenia się na x:7 y:7
-Trawa rozprzestrzenia się na x:2 y:5
+Jagody rozprzestrzenia się na x:7 y:9
+Przesuwam Wilk na nowa pozycje x:10, y: 6
+Przesuwam Wilk na nowa pozycje x:10, y: 6
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
 Przesuwam Wilk na nowa pozycje x:2, y: 2
 Przesuwam Wilk na nowa pozycje x:2, y: 2
+Antylopa ucieka na pole x:2 y:4
+Czlowiek na polu x:7 y:6 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:7 y:6
+Guarana rozprzestrzenia się na x:3 y:4
+Przesuwam Wilk na nowa pozycje x:10, y: 7
+Przesuwam Wilk na nowa pozycje x:10, y: 7
+Antylopa ucieka na pole x:2 y:3
+Wilk nieudany atak na x:1 y:4 - wraca na swoje pole
+
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Wilk i Wilk beda miec potomka na x:1 y:2
+
+Antylopa przesuwa się na nową pozycję x:2, y:1
+Czlowiek na polu x:7 y:7 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:7 y:7
+Guarana rozprzestrzenia się na x:4 y:3
+Guarana rozprzestrzenia się na x:5 y:5
+Jagody rozprzestrzenia się na x:7 y:10
+Guarana rozprzestrzenia się na x:2 y:4
+Przesuwam Wilk na nowa pozycje x:10, y: 8
+Przesuwam Wilk na nowa pozycje x:10, y: 8
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+Wilk i Wilk beda miec potomka na x:4 y:2
+
+Wilk i Wilk beda miec potomka na x:2 y:3
+
+Wilk i Wilk beda miec potomka na x:1 y:1
+
+Antylopa przesuwa się na nową pozycję x:4, y:1
+Czlowiek przesuwa sie na x:7 y:6
+Guarana rozprzestrzenia się na x:6 y:4
+Jagody rozprzestrzenia się na x:8 y:10
+Jagody rozprzestrzenia się na x:7 y:8
+Guarana rozprzestrzenia się na x:3 y:3
+Guarana rozprzestrzenia się na x:5 y:3
+Jagody rozprzestrzenia się na x:6 y:10
+Wilk i Wilk beda miec potomka na x:1 y:4
+
+Wilk na polu x:3 y:3 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:3 y:3
+
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:3, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 2
+Przesuwam Wilk na nowa pozycje x:2, y: 2
+Wilk na polu x:4 y:3 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:4 y:3
+
+
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Przesuwam Wilk na nowa pozycje x:2, y: 1
+Antylopa przesuwa się na nową pozycję x:6, y:1
+Czlowiek przesuwa sie na x:6 y:6
+Jagody rozprzestrzenia się na x:9 y:8
+Jagody rozprzestrzenia się na x:9 y:7
+Guarana rozprzestrzenia się na x:6 y:5
+Jagody zjedzone - ginie Wilk na polu x:10 y:8
+Wilk zatruty przez Jagody
+
+Wilk i Wilk beda miec potomka na x:1 y:2
+
+Wilk na polu x:3 y:4 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:3 y:4
+
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Wilk i Wilk beda miec potomka na x:3 y:2
+
+Wilk na polu x:5 y:3 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:5 y:3
+
+Wilk i Wilk beda miec potomka na x:3 y:3
+
+Przesuwam Wilk na nowa pozycje x:1, y: 1
+Przesuwam Wilk na nowa pozycje x:1, y: 1
+Czlowiek na polu x:6 y:5 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:6 y:5
+Guarana rozprzestrzenia się na x:4 y:5
+Guarana rozprzestrzenia się na x:5 y:6
+
+Wilk na polu x:4 y:4 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:4 y:4
+
+Wilk i Wilk beda miec potomka na x:2 y:1
+
+Wilk na polu x:5 y:4 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:5 y:4
+
+Wilk na polu x:2 y:4 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:2 y:4
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+Wilk i Wilk beda miec potomka na x:4 y:2
+
+Przesuwam Wilk na nowa pozycje x:4, y: 3
+Przesuwam Wilk na nowa pozycje x:4, y: 3
+Czlowiek na polu x:5 y:5 ma większą siłę (Guarana)
+Czlowiek zabija Guarana na x:5 y:5
+Jagody rozprzestrzenia się na x:7 y:7
+Jagody rozprzestrzenia się na x:6 y:9
+Jagody rozprzestrzenia się na x:9 y:8
+Wilk i Wilk beda miec potomka na x:2 y:3
+
+Wilk na polu x:4 y:5 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:4 y:5
+
 Przesuwam Wilk na nowa pozycje x:4, y: 1
 Przesuwam Wilk na nowa pozycje x:4, y: 1
-Przesuwam Wilk na nowa pozycje x:3, y: 3
-Przesuwam Wilk na nowa pozycje x:3, y: 3
-Antylopa przesuwa się na nową pozycję x:2, y:8
-Czlowiek przesuwa sie na x:7 y:4
-Trawa rozprzestrzenia się na x:5 y:5
+
+Wilk na polu x:6 y:4 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:6 y:4
+
+Przesuwam Wilk na nowa pozycje x:2, y: 5
+Przesuwam Wilk na nowa pozycje x:2, y: 5
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:3, y: 1
+Przesuwam Wilk na nowa pozycje x:4, y: 4
+Przesuwam Wilk na nowa pozycje x:4, y: 4
+Wilk i Wilk beda miec potomka na x:1 y:6
+
+Wilk i Wilk beda miec potomka na x:3 y:2
+
+Antylopa przesuwa się na nową pozycję x:8, y:1
+Czlowiek przesuwa sie na x:6 y:5
+Jagody rozprzestrzenia się na x:10 y:8
+
+Przesuwam Wilk na nowa pozycje x:3, y: 5
+Przesuwam Wilk na nowa pozycje x:3, y: 5
+Wilk i Wilk beda miec potomka na x:5 y:1
+
+
+Czlowiek zabija Wilk na x:6 y:4
+
+Wilk i Wilk beda miec potomka na x:2 y:6
+
+
+
+Przesuwam Wilk na nowa pozycje x:4, y: 3
+Przesuwam Wilk na nowa pozycje x:4, y: 3
+Wilk i Wilk beda miec potomka na x:5 y:2
+
+Wilk i Wilk beda miec potomka na x:3 y:3
+
+Wilk i Wilk beda miec potomka na x:3 y:4
+
+Przesuwam Wilk na nowa pozycje x:1, y: 7
+Przesuwam Wilk na nowa pozycje x:1, y: 7
+
+Antylopa przesuwa się na nową pozycję x:8, y:2
+Czlowiek zabija Wilk na x:6 y:4
+Jagody rozprzestrzenia się na x:5 y:9
+
+Wilk i Wilk beda miec potomka na x:4 y:5
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:3
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:1
+
+Wilk i Wilk beda miec potomka na x:1 y:6
+
+Wilk i Wilk beda miec potomka na x:6 y:2
+
+
+Wilk i Wilk beda miec potomka na x:4 y:4
+
+Antylopa przesuwa się na nową pozycję x:9, y:2
+Czlowiek przesuwa sie na x:5 y:4
+Guarana rozprzestrzenia się na x:5 y:5
+Jagody rozprzestrzenia się na x:7 y:6
+Jagody rozprzestrzenia się na x:9 y:9
+
+Przesuwam Wilk na nowa pozycje x:3, y: 6
+Przesuwam Wilk na nowa pozycje x:3, y: 6
+
+
+Wilk i Wilk beda miec potomka na x:3 y:5
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:7
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:6
+
+Wilk i Wilk beda miec potomka na x:6 y:3
+
+
+Wilk i Wilk beda miec potomka na x:7 y:2
+
+
+Antylopa przesuwa się na nową pozycję x:10, y:1
+Czlowiek zabija Wilk na x:4 y:4
+Jagody rozprzestrzenia się na x:5 y:10
+Guarana rozprzestrzenia się na x:5 y:7
+
+Wilk i Wilk beda miec potomka na x:3 y:7
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 8
+Przesuwam Wilk na nowa pozycje x:1, y: 8
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:4
+
+Wilk i Wilk beda miec potomka na x:7 y:1
+
+Wilk i Wilk beda miec potomka na x:1 y:7
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:8
+
+Wilk na polu x:5 y:6 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:5 y:6
+
+Przesuwam Wilk na nowa pozycje x:7, y: 3
+Przesuwam Wilk na nowa pozycje x:7, y: 3
+Wilk i Wilk beda miec potomka na x:8 y:2
+
+Czlowiek zabija Wilk na x:3 y:4
+Jagody rozprzestrzenia się na x:8 y:6
+
+Wilk i Wilk beda miec potomka na x:4 y:6
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:4
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 9
+Przesuwam Wilk na nowa pozycje x:1, y: 9
+
+
+
+
+Czlowiek zabija Wilk na x:3 y:3
+
+
+Wilk i Wilk beda miec potomka na x:6 y:3
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 6
+Przesuwam Wilk na nowa pozycje x:6, y: 6
+Przesuwam Wilk na nowa pozycje x:8, y: 3
+Przesuwam Wilk na nowa pozycje x:8, y: 3
+Wilk i Wilk beda miec potomka na x:7 y:3
+
+Przesuwam Wilk na nowa pozycje x:3, y: 8
+Przesuwam Wilk na nowa pozycje x:3, y: 8
+Przesuwam Wilk na nowa pozycje x:6, y: 4
+Przesuwam Wilk na nowa pozycje x:6, y: 4
+Wilk i Wilk beda miec potomka na x:1 y:8
+
+Wilk i Wilk beda miec potomka na x:2 y:9
+
+Wilk i Wilk beda miec potomka na x:9 y:2
+
+Antylopa przesuwa się na nową pozycję x:10, y:2
+Czlowiek zabija Wilk na x:2 y:4
+Guarana rozprzestrzenia się na x:6 y:5
 Jagody rozprzestrzenia się na x:9 y:10
-Trawa rozprzestrzenia się na x:6 y:3
-Guarana rozprzestrzenia się na x:7 y:6
-Trawa rozprzestrzenia się na x:1 y:5
+Jagody rozprzestrzenia się na x:8 y:5
+Wilk i Wilk beda miec potomka na x:3 y:7
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:4
+
+
+
+Wilk i Wilk beda miec potomka na x:3 y:3
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 10
+Przesuwam Wilk na nowa pozycje x:1, y: 10
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:4
+
+
+
+
+Wilk i Wilk beda miec potomka na x:3 y:4
+
+
+Przesuwam Wilk na nowa pozycje x:5, y: 6
+Przesuwam Wilk na nowa pozycje x:5, y: 6
+Przesuwam Wilk na nowa pozycje x:9, y: 3
+Przesuwam Wilk na nowa pozycje x:9, y: 3
+
+Wilk i Wilk beda miec potomka na x:4 y:8
+
+Przesuwam Wilk na nowa pozycje x:7, y: 4
+Przesuwam Wilk na nowa pozycje x:7, y: 4
+
+
+Przesuwam Wilk na nowa pozycje x:8, y: 3
+Przesuwam Wilk na nowa pozycje x:8, y: 3
+Wilk i Wilk beda miec potomka na x:4 y:7
+
+
+Wilk i Wilk beda miec potomka na x:6 y:4
+
+
+Wilk i Wilk beda miec potomka na x:1 y:9
+
+Wilk i Wilk beda miec potomka na x:3 y:9
+
+Przesuwam Wilk na nowa pozycje x:9, y: 1
+Przesuwam Wilk na nowa pozycje x:9, y: 1
+Czlowiek zabija Wilk na x:1 y:4
+Guarana rozprzestrzenia się na x:6 y:7
+Jagody rozprzestrzenia się na x:8 y:4
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:2, y: 10
+Przesuwam Wilk na nowa pozycje x:2, y: 10
+
+
+
+
+
+
+
+
+
+
+Wilk na polu x:5 y:7 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:5 y:7
+
+Przesuwam Wilk na nowa pozycje x:9, y: 4
+Przesuwam Wilk na nowa pozycje x:9, y: 4
+Wilk i Wilk beda miec potomka na x:8 y:2
+
+
+Wilk i Wilk beda miec potomka na x:7 y:5
+
+Przesuwam Wilk na nowa pozycje x:8, y: 1
+Przesuwam Wilk na nowa pozycje x:8, y: 1
+
+
+Przesuwam Wilk na nowa pozycje x:9, y: 3
+Przesuwam Wilk na nowa pozycje x:9, y: 3
+Wilk i Wilk beda miec potomka na x:5 y:6
+
+
+
+Przesuwam Wilk na nowa pozycje x:8, y: 3
+Przesuwam Wilk na nowa pozycje x:8, y: 3
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:4, y: 9
+Przesuwam Wilk na nowa pozycje x:4, y: 9
+Wilk i Wilk beda miec potomka na x:4 y:8
+
+Wilk na polu x:6 y:5 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:6 y:5
+
+Wilk i Wilk beda miec potomka na x:3 y:10
+
+Jagody rozprzestrzenia się na x:10 y:7
+Jagody rozprzestrzenia się na x:10 y:9
+Jagody rozprzestrzenia się na x:4 y:10
+Jagody rozprzestrzenia się na x:9 y:5
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:10
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:8
+
+Wilk i Wilk beda miec potomka na x:10 y:4
+
+Przesuwam Wilk na nowa pozycje x:7, y: 3
+Przesuwam Wilk na nowa pozycje x:7, y: 3
+
+Wilk i Wilk beda miec potomka na x:6 y:4
+
+Wilk i Wilk beda miec potomka na x:7 y:1
+
+
+
+Przesuwam Wilk na nowa pozycje x:10, y: 3
+Przesuwam Wilk na nowa pozycje x:10, y: 3
+
+
+
+Wilk i Wilk beda miec potomka na x:9 y:3
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:4 y:9
+Wilk zatruty przez Jagody
+
+
+Wilk na polu x:5 y:5 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:5 y:5
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:2
+
+Wilk i Wilk beda miec potomka na x:6 y:5
+
+Przesuwam Wilk na nowa pozycje x:6, y: 6
+Przesuwam Wilk na nowa pozycje x:6, y: 6
+
+Jagody rozprzestrzenia się na x:6 y:8
+
+
+Wilk i Wilk beda miec potomka na x:1 y:2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:6
+
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:8 y:3
+Wilk zatruty przez Jagody
+
+
+Wilk i Wilk beda miec potomka na x:10 y:1
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:9
+
+
+Wilk i Wilk beda miec potomka na x:9 y:2
+
+Jagody zjedzone - ginie Wilk na polu x:7 y:5
+Wilk zatruty przez Jagody
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:9
+
+
+
+
+
+
+Antylopa na x:10 y:2 nie ucieka
+Wilk zabija Antylopa na x:10 y:2
+Jagody rozprzestrzenia się na x:9 y:6
+Jagody rozprzestrzenia się na x:10 y:10
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk na polu x:6 y:7 ma większą siłę (Guarana)
+Wilk zabija Guarana na x:6 y:7
+
+Wilk i Wilk beda miec potomka na x:8 y:4
+
+Wilk i Wilk beda miec potomka na x:8 y:3
+
+
+Wilk i Wilk beda miec potomka na x:7 y:5
+
+
+Przesuwam Wilk na nowa pozycje x:10, y: 2
+Przesuwam Wilk na nowa pozycje x:10, y: 2
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:7
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:7, y: 6
+Przesuwam Wilk na nowa pozycje x:7, y: 6
+
+
+
+Wilk i Wilk beda miec potomka na x:10 y:3
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:6
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:5 y:9
+Wilk zatruty przez Jagody
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:3
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:3 y:10
+Wilk zatruty przez Jagody
+
+
+Jagody zjedzone - ginie Wilk na polu x:5 y:8
+Wilk zatruty przez Jagody
+
+Przesuwam Wilk na nowa pozycje x:10, y: 5
+Przesuwam Wilk na nowa pozycje x:10, y: 5
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:9
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:10 y:4
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:3 y:10
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 8
+Przesuwam Wilk na nowa pozycje x:6, y: 8
+Jagody zjedzone - ginie Wilk na polu x:9 y:4
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:7 y:6
+Wilk zatruty przez Jagody
+
+Przesuwam Wilk na nowa pozycje x:5, y: 8
+Przesuwam Wilk na nowa pozycje x:5, y: 8
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:8
+
+
+Jagody zjedzone - ginie Wilk na polu x:8 y:4
+Wilk zatruty przez Jagody
+
+
+Jagody zjedzone - ginie Wilk na polu x:7 y:5
+Wilk zatruty przez Jagody
+
+Wilk i Wilk beda miec potomka na x:6 y:7
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 9
+Przesuwam Wilk na nowa pozycje x:6, y: 9
+
+Jagody rozprzestrzenia się na x:5 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:8 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:10, y: 6
+Przesuwam Wilk na nowa pozycje x:10, y: 6
+
+
+Wilk i Wilk beda miec potomka na x:9 y:4
+
+
+Przesuwam Wilk na nowa pozycje x:7, y: 5
+Przesuwam Wilk na nowa pozycje x:7, y: 5
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:10
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:6
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+Jagody zjedzone - ginie Wilk na polu x:6 y:9
+Wilk zatruty przez Jagody
+
+Wilk i Wilk beda miec potomka na x:10 y:5
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:7
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:5
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:5 y:8
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:8 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:9 y:5
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:7 y:7
+Wilk zatruty przez Jagody
+
+Jagody rozprzestrzenia się na x:7 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:10 y:6
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:5, y: 9
+Przesuwam Wilk na nowa pozycje x:5, y: 9
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:9
+
+Przesuwam Wilk na nowa pozycje x:7, y: 7
+Przesuwam Wilk na nowa pozycje x:7, y: 7
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+Jagody zjedzone - ginie Wilk na polu x:6 y:9
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 7
+Przesuwam Wilk na nowa pozycje x:6, y: 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:9
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:8 y:7
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:7 y:6
+Wilk zatruty przez Jagody
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 8
+Przesuwam Wilk na nowa pozycje x:6, y: 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:7, y: 6
+Przesuwam Wilk na nowa pozycje x:7, y: 6
+
+Przesuwam Wilk na nowa pozycje x:5, y: 8
+Przesuwam Wilk na nowa pozycje x:5, y: 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:10, y: 6
+Przesuwam Wilk na nowa pozycje x:10, y: 6
+Przesuwam Wilk na nowa pozycje x:7, y: 5
+Przesuwam Wilk na nowa pozycje x:7, y: 5
+Przesuwam Wilk na nowa pozycje x:8, y: 6
+Przesuwam Wilk na nowa pozycje x:8, y: 6
+Przesuwam Wilk na nowa pozycje x:8, y: 5
+Przesuwam Wilk na nowa pozycje x:8, y: 5
+
+Wilk i Wilk beda miec potomka na x:5 y:9
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 10
+Przesuwam Wilk na nowa pozycje x:6, y: 10
+Jagody zjedzone - ginie Wilk na polu x:8 y:7
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:10 y:5
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:8, y: 7
+Przesuwam Wilk na nowa pozycje x:8, y: 7
+
+Wilk i Wilk beda miec potomka na x:9 y:5
+
+Jagody zjedzone - ginie Wilk na polu x:4 y:10
+Wilk zatruty przez Jagody
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:10
+
+
+Wilk i Wilk beda miec potomka na x:9 y:7
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:10 y:6
+Wilk zatruty przez Jagody
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:6 y:8
+Wilk zatruty przez Jagody
+
+
+
+Przesuwam Wilk na nowa pozycje x:5, y: 10
+Przesuwam Wilk na nowa pozycje x:5, y: 10
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 10
+Przesuwam Wilk na nowa pozycje x:6, y: 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:6 y:8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:3
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:9, y: 6
+Przesuwam Wilk na nowa pozycje x:9, y: 6
+Przesuwam Wilk na nowa pozycje x:8, y: 6
+Przesuwam Wilk na nowa pozycje x:8, y: 6
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 9
+Przesuwam Wilk na nowa pozycje x:6, y: 9
+
+Wilk i Wilk beda miec potomka na x:10 y:6
+
+Wilk i Wilk beda miec potomka na x:8 y:5
+
+
+Wilk i Wilk beda miec potomka na x:7 y:8
+
+
+Wilk i Wilk beda miec potomka na x:10 y:7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:5 y:9
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+Jagody zjedzone - ginie Wilk na polu x:6 y:9
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:7 y:8
+Wilk zatruty przez Jagody
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:8 y:8
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:6 y:10
+Wilk zatruty przez Jagody
+
+Wilk i Wilk beda miec potomka na x:7 y:8
+
+
+Jagody zjedzone - ginie Wilk na polu x:9 y:7
+Wilk zatruty przez Jagody
+
+Wilk i Wilk beda miec potomka na x:6 y:9
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:3
+
+
+
+
+Wilk i Wilk beda miec potomka na x:9 y:7
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:6, y: 10
+Przesuwam Wilk na nowa pozycje x:6, y: 10
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:5, y: 10
+Przesuwam Wilk na nowa pozycje x:5, y: 10
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:9 y:8
+
+Przesuwam Wilk na nowa pozycje x:7, y: 9
+Przesuwam Wilk na nowa pozycje x:7, y: 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:4 y:10
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:10
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:7, y: 8
+Przesuwam Wilk na nowa pozycje x:7, y: 8
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:9 y:8
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:10, y: 8
+Przesuwam Wilk na nowa pozycje x:10, y: 8
+
+
+Wilk i Wilk beda miec potomka na x:9 y:8
+
+
+
+Wilk i Wilk beda miec potomka na x:10 y:7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:10 y:8
+Wilk zatruty przez Jagody
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:8 y:8
+Wilk zatruty przez Jagody
+
+
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:9 y:8
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:8 y:8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+Wilk i Wilk beda miec potomka na x:8 y:9
+
+
+Wilk i Wilk beda miec potomka na x:9 y:8
+
+
+
+
+Wilk i Wilk beda miec potomka na x:10 y:8
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:8 y:9
+Wilk zatruty przez Jagody
+
+Wilk i Wilk beda miec potomka na x:9 y:9
+
+Wilk i Wilk beda miec potomka na x:10 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:8 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+Jagody zjedzone - ginie Wilk na polu x:10 y:9
+Wilk zatruty przez Jagody
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:8, y: 10
+Przesuwam Wilk na nowa pozycje x:8, y: 10
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+Jagody zjedzone - ginie Wilk na polu x:9 y:9
+Wilk zatruty przez Jagody
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:7 y:10
+
+
+
+Wilk i Wilk beda miec potomka na x:9 y:10
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:9 y:9
+
+Wilk i Wilk beda miec potomka na x:10 y:9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:10, y: 10
+Przesuwam Wilk na nowa pozycje x:10, y: 10
+Wilk i Wilk beda miec potomka na x:9 y:10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 5
+Przesuwam Wilk na nowa pozycje x:1, y: 5
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:3 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 5
+Przesuwam Wilk na nowa pozycje x:1, y: 5
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+Przesuwam Wilk na nowa pozycje x:1, y: 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:1 y:5
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+Czlowiek zabija Wilk na x:1 y:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+Przesuwam Wilk na nowa pozycje x:2, y: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:1 y:5
+
+
+
+
+
+
+Przesuwam Wilk na nowa pozycje x:2, y: 3
+Przesuwam Wilk na nowa pozycje x:2, y: 3
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Czlowiek zabija Wilk na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilk i Wilk beda miec potomka na x:2 y:4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

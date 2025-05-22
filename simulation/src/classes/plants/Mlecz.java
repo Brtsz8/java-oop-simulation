@@ -11,11 +11,6 @@ public class Mlecz extends Roslina {
     }
 
     @Override
-    public String rysowanie() {
-        return "@";
-    }
-
-    @Override
     public String nazwa() {
         return "Mlecz";
     }

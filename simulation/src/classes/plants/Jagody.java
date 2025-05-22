@@ -11,11 +11,6 @@ public class Jagody extends Roslina {
     }
 
     @Override
-    public String rysowanie() {
-        return "%";
-    }
-
-    @Override
     public String nazwa() {
         return "Jagody";
     }

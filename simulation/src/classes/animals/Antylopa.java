@@ -15,11 +15,6 @@ public class Antylopa extends Zwierze {
     }
 
     @Override
-    public String rysowanie() {
-        return "A";
-    }
-
-    @Override
     public String nazwa() {
         return "Antylopa";
     }
