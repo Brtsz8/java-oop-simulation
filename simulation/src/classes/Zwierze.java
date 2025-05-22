@@ -1,7 +1,5 @@
 package classes;
 
-import java.sql.SQLOutput;
-
 public abstract class Zwierze extends Organizm{
 
     public Zwierze(int sila, int inicjatywa, int pozycjaX, int pozycjaY, Swiat swiat) {

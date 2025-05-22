@@ -4,9 +4,7 @@ import classes.animals.*;
 import classes.plants.*;
 import mainFiles.Settings;
 
-import javax.swing.*;
 import java.io.*;
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class Swiat {

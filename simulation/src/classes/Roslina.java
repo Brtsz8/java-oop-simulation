@@ -1,8 +1,5 @@
 package classes;
 
-import classes.Organizm;
-import classes.Swiat;
-
 import java.util.Random;
 
 public abstract class Roslina extends Organizm{

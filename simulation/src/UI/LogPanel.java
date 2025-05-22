@@ -1,14 +1,10 @@
 package UI;
 
-import classes.Organizm;
 import classes.Swiat;
-import classes.animals.Czlowiek;
 import mainFiles.Settings;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.util.Objects;
 
 public class LogPanel extends JPanel {
 
